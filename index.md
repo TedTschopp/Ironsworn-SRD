@@ -1,4 +1,4 @@
-[Ironsworn: System Reference Document](/Ironsworn SRD.html)
+[Ironsworn: System Reference Document](https://tedtschopp.github.io/Ironsworn-SRD/Ironsworn%20SRD.html)
 
 ***Version .08  Updated 09/16/18***
 
