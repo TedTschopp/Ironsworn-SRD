@@ -20,7 +20,9 @@ Ironsworn leverages mechanics and creative inspiration from several amazing game
 
 ### What is This?
 
-This document incorporates selected content from the Ironsworn roleplaying game. If you’d like to use this text or mechanics in your own game, you may do so under the license detailed on the next page.
+* This document is the SRD of the Ironsworn Roleplaying game that has been converted over to a Markdown document.  In the process of conversation several small changes to tables, headers, and formatting have been changed.  These changes were made by Ted Tschopp.
+
+* This document incorporates selected content from the Ironsworn roleplaying game. If you’d like to use this text or mechanics in your own game, you may do so under the license detailed on the next page.
 
 #### About Ironsworn
 
