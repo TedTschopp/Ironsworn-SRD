@@ -363,7 +363,7 @@ Some moves may prompt you to roll on a table to generate a result between 1 and 
 
 #### Rolling Oracle Dice
 
-Whenever you are prompted by a move or an oracle table to generate a result between 1 and 100, roll two ten-sided dice. 
+Whenever you are prompted by a move or an oracle table to generate a result between 1 and 100, roll two ten-sided dice.
 ![Oracle Dice 1 - 100](images/oracle-dice-1.svg)
 
 One of your oracle dice may include tens digits on its faces. You’d read this result as 83.
@@ -1126,7 +1126,7 @@ Horses, mules, and transport (such as boats) influence the fiction of your journ
 
 You can intersperse Resupply or Make Camp moves during your journey to manage your health, spirit and supply, or to create new scenes as diversions. Don’t be concerned with using the Make Camp move as an automatic capstone to a day of travel. You can be assumed to rest and camp as appropriate without making the move, and you can roleplay out those scenes or gloss over them as you like. When you want the mechanical benefit of the Make Camp move, or you’re interested in playing the move out through the fiction, then do it.
 
-##### On a Miss...
+##### On a Miss
 
 You do not mark progress on a miss. Instead, you encounter a new danger. You might face hazards through the weather, the terrain, encounters with creatures or people, attacks from your enemies, strange discoveries, or supernatural events. Decide what happens based on your current circumstances and surroundings, roll on the Pay the Price table, or Ask the Oracle for inspiration. Depending on your desired narrative pace, you can then play out the event to see what happens, or summarize and apply the consequences immediately.
 
@@ -1724,7 +1724,6 @@ Roll | Result
 
 51-00 | You persevere.
 
-  
 Make this move when your courage fails you, when you are unnerved or disheartened, or when you act against your best intentions.
 
 When you are forced to Pay the Price, you should Endure Stress if mental hardship is an obvious and dramatic outcome of the current situation. Also, some moves and assets will direct you to Endure Stress as a cost or concession, and may indicate a specific amount of stress to suffer.
@@ -2186,405 +2185,108 @@ Matches don’t have special significance when rolling on these oracle tables. T
 
 Use this table to inspire a discovery, event, character goal, or situation. A roll on this table can be combined with a Theme (see below) to provide an action and a subject. Then, interpret the result based on the context of the question and your current situation.
 
-1
-
-Scheme
-
-26
-
-Withdraw
-
-51
-
-Persevere
-
-76
-
-Betray
-
-2
-
-Clash
-
-27
-
-Abandon
-
-52
-
-Serve
-
-77
-
-Secure
-
-3
-
-Weaken
-
-28
-
-Investigate
-
-53
-
-Begin
-
-78
-
-Arrive
-
-4
-
-Initiate
-
-29
-
-Hold
-
-54
-
-Move
-
-79
-
-Affect
-
-5
-
-Create
-
-30
-
-Focus
-
-55
-
-Coordinate
-
-80
-
-Change
-
-6
-
-Swear
-
-31
-
-Uncover
-
-56
-
-Resist
-
-81
-
-Defend
-
-7
-
-Avenge
-
-32
-
-Breach
-
-57
-
-Await
-
-82
-
-Debate
-
-8
-
-Guard
-
-33
-
-Aid
-
-58
-
-Impress
-
-83
-
-Support
-
-9
-
-Defeat
-
-34
-
-Uphold
-
-59
-
-Take
-
-84
-
-Follow
-
-10
-
-Control
-
-35
-
-Falter
-
-60
-
-Oppose
-
-85
-
-Construct
-
-11
-
-Break
-
-36
-
-Suppress
-
-61
-
-Capture
-
-86
-
-Locate
-
-12
-
-Risk
-
-37
-
-Hunt
-
-62
-
-Overwhelm
-
-87
-
-Endure
-
-13
-
-Surrender
-
-38
-
-Share
-
-63
-
-Challenge
-
-88
-
-Release
-
-14
-
-Inspect
-
-39
-
-Destroy
-
-64
-
-Acquire
-
-89
-
-Lose
-
-15
-
-Raid
-
-40
-
-Avoid
-
-65
-
-Protect
-
-90
-
-Reduce
-
-16
-
-Evade
-
-41
-
-Reject
-
-66
-
-Finish
-
-91
-
-Escalate
-
-17
-
-Assault
-
-42
-
-Demand
-
-67
-
-Strengthen
-
-92
-
-Distract
-
-18
-
-Deflect
-
-43
-
-Explore
-
-68
-
-Restore
-
-93
-
-Journey
-
-19
-
-Threaten
-
-44
-
-Bolster
-
-69
-
-Advance
-
-94
-
-Escort
-
-20
-
-Attack
-
-45
-
-Seize
-
-70
-
-Command
-
-95
-
-Learn
-
-21
-
-Leave
-
-46
-
-Mourn
-
-71
-
-Refuse
-
-96
-
-Communicate
-
-22
-
-Preserve
-
-47
-
-Reveal
-
-72
-
-Find
-
-97
-
-Depart
-
-23
-
-Manipulate
-
-48
-
-Gather
-
-73
-
-Deliver
-
-98
-
-Search
-
-24
-
-Remove
-
-49
-
-Defy
-
-74
-
-Hide
-
-99
-
-Charge
-
-25
-
-Eliminate
-
-50
-
- Transform
-
-75
-
-Fortify
-
-00
-
-Summon
+Roll|Action
+-|-
+1| Scheme
+2| Clash
+3| Weaken
+4| Initiate
+5| Create
+6| Swear
+7| Avenge
+8| Guard
+9| Defeat
+10| Control
+11| Break
+12| Risk
+13| Surrender
+14| Inspect
+15| Raid
+16| Evade
+17| Assault
+18| Deflect
+19| Threaten
+20| Attack
+21| Leave
+22| Preserve
+23| Manipulate
+24| Remove
+25| Eliminate
+26| Withdraw
+27| Abandon
+28| Investigate
+29| Hold
+30| Focus
+31| Uncover
+32| Breach
+33| Aid
+34| Uphold
+35| Falter
+36| Suppress
+37| Hunt
+38| Share
+39| Destroy
+40| Avoid
+41| Reject
+42| Demand
+43| Explore
+44| Bolster
+45| Seize
+46| Mourn
+47| Reveal
+48| Gather
+49| Defy
+50|  Transform
+51| Persevere
+52| Serve
+53| Begin
+54| Move
+55| Coordinate
+56| Resist
+57| Await
+58| Impress
+59| Take
+60| Oppose
+61| Capture
+62| Overwhelm
+63| Challenge
+64| Acquire
+65| Protect
+66| Finish
+67| Strengthen
+68| Restore
+69| Advance
+70| Command
+71| Refuse
+72| Find
+73| Deliver
+74| Hide
+75| Fortify
+76| Betray
+77| Secure
+78| Arrive
+79| Affect
+80| Change
+81| Defend
+82| Debate
+83| Support
+84| Follow
+85| Construct
+86| Locate
+87| Endure
+88| Release
+89| Lose
+90| Reduce
+91| Escalate
+92| Distract
+93| Journey
+94| Escort
+95| Learn
+96| Communicate
+97| Depart
+98| Search
+99| Charge
+00| Summon
 
 ### Theme Oracle
 
