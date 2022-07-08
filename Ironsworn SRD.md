@@ -2236,7 +2236,7 @@ Roll|Action
 47| Reveal
 48| Gather
 49| Defy
-50|  Transform
+50| Transform
 51| Persevere
 52| Serve
 53| Begin
@@ -2291,406 +2291,108 @@ Roll|Action
 ### Theme Oracle
 
 As with the Action oracle, this is an interpretative table which you can use to answer questions or generate new situations. Combined, the Action and Theme tables provide creative prompts suitable for most situations and questions.
-
-1
-
-Risk
-
-26
-
-Barrier
-
-51
-
-Stranger
-
-76
-
-Rival
-
-2
-
-Ability
-
-27
-
-Creation
-
-52
-
-Passage
-
-77
-
-Problem
-
-3
-
-Price
-
-28
-
-Decay
-
-53
-
-Land
-
-78
-
-Idea
-
-4
-
-Ally
-
-29
-
-Trade
-
-54
-
-Creature
-
-79
-
-Revenge
-
-5
-
-Battle
-
-30
-
-Bond
-
-55
-
-Disease
-
-80
-
-Health
-
-6
-
-Safety
-
-31
-
-Hope
-
-56
-
-Advantage
-
-81
-
-Fellowship
-
-7
-
-Survival
-
-32
-
-Superstition
-
-57
-
-Blood
-
-82
-
-Enemy
-
-8
-
-Weapon
-
-33
-
-Peace
-
-58
-
-Language
-
-83
-
-Religion
-
-9
-
-Wound
-
-34
-
-Deception
-
-59
-
-Rumor
-
-84
-
-Spirit
-
-10
-
-Shelter
-
-35
-
-History
-
-60
-
-Weakness
-
-85
-
-Fame
-
-11
-
-Leader
-
-36
-
-World
-
-61
-
-Greed
-
-86
-
-Desolation
-
-12
-
-Fear
-
-37
-
-Vow
-
-62
-
-Family
-
-87
-
-Strength
-
-13
-
-Time
-
-38
-
-Protection
-
-63
-
-Resource
-
-88
-
-Knowledge
-
-14
-
-Duty
-
-39
-
-Nature
-
-64
-
-Structure
-
-89
-
-Truth
-
-15
-
-Secret
-
-40
-
-Opinion
-
-65
-
-Dream
-
-90
-
-Quest
-
-16
-
-Innocence
-
-41
-
-Burden
-
-66
-
-Community
-
-91
-
-Pride
-
-17
-
-Renown
-
-42
-
-Vengeance
-
-67
-
-War
-
-92
-
-Loss
-
-18
-
-Direction
-
-43
-
-Opportunity
-
-68
-
-Portent
-
-93
-
-Law
-
-19
-
-Death
-
-44
-
-Faction
-
-69
-
-Prize
-
-94
-
-Path
-
-20
-
-Honor
-
-45
-
-Danger
-
-70
-
-Destiny
-
-95
-
-Warning
-
-21
-
-Labor
-
-46
-
-Corruption
-
-71
-
-Momentum
-
-96
-
-Relationship
-
-22
-
-Solution
-
-47
-
-Freedom
-
-72
-
-Power
-
-97
-
-Wealth
-
-23
-
-Tool
-
-48
-
-Debt
-
-73
-
-Memory
-
-98
-
-Home
-
-24
-
-Balance
-
-49
-
-Hate
-
-74
-
-Ruin
-
-99
-
-Strategy
-
-25
-
-Love
-
-50
-
- Possession
-
-75
-
-Mysticism
-
-00
-
-Supply
+Roll | Theme
+-|-
+1| Risk
+2| Ability
+3| Price
+4| Ally
+5| Battle
+6| Safety
+7| Survival
+8| Weapon
+9| Wound
+10| Shelter
+11| Leader
+12| Fear
+13| Time
+14| Duty
+15| Secret
+16| Innocence
+17| Renown
+18| Direction
+19| Death
+20| Honor
+21| Labor
+22| Solution
+23| Tool
+24| Balance
+25| Love
+26| Barrier
+27| Creation
+28| Decay
+29| Trade
+30| Bond
+31| Hope
+32| Superstition
+33| Peace
+34| Deception
+35| History
+36| World
+37| Vow
+38| Protection
+39| Nature
+40| Opinion
+41| Burden
+42| Vengeance
+43| Opportunity
+44| Faction
+45| Danger
+46| Corruption
+47| Freedom
+48| Debt
+49| Hate
+50|  Possession
+51| Stranger
+52| Passage
+53| Land
+54| Creature
+55| Disease
+56| Advantage
+57| Blood
+58| Language
+59| Rumor
+60| Weakness
+61| Greed
+62| Family
+63| Resource
+64| Structure
+65| Dream
+66| Community
+67| War
+68| Portent
+69| Prize
+70| Destiny
+71| Momentum
+72| Power
+73| Memory
+74| Ruin
+75| Mysticism
+76| Rival
+77| Problem
+78| Idea
+79| Revenge
+80| Health
+81| Fellowship
+82| Enemy
+83| Religion
+84| Spirit
+85| Fame
+86| Desolation
+87| Strength
+88| Knowledge
+89| Truth
+90| Quest
+91| Pride
+92| Loss
+93| Law
+94| Path
+95| Warning
+96| Relationship
+97| Wealth
+98| Home
+99| Strategy
+00| Supply
 
 ### Combat Action Oracle
 
