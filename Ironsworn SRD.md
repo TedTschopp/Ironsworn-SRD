@@ -260,7 +260,7 @@ Since making progress on your quests may stretch over many sessions, your charac
 
 When you engage in a fight, initiate a journey, or swear a vow, you give your challenge a rank. In increasing order of difficulty, the ranks are troublesome, dangerous, formidable, extreme, and epic. You (or the GM) will choose a rank appropriate to the situation and how quickly or easily it should be resolved. Troublesome is used for simple challenges. A typical challenge is dangerous or formidable. Epic and extreme challenges require great effort and luck to overcome.
 
-#### Marking Progress
+#### Marking Progress on Progress Tracks
 
 You will perform specific moves to advance toward your goal. For example, as you travel across perilous lands, you Undertake a Journey and mark progress as you successfully reach waypoints in your travel.
 
