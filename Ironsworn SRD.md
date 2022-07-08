@@ -134,21 +134,21 @@ When you make a move representing a risky or uncertain action, you roll three di
 * Challenge dice: Two ten-sided dice (D10)
 * Action die: A six-sided die (D6)
 
-![Challenge Dice and Action Die](images/action-roll-dice.svg)
+![Challenge Dice and Action Die](/images/action-roll-dice.svg)
 
 Add your relevant stat to your action die. The move will tell you which stat to add, or may give you a choice. Some moves will tell you to use one of your tracks, such as health or supply, in place of a stat. Based on the move or your character’s assets, you may also have an opportunity to apply one or more bonuses called adds. The total of your action die, your stat, and any adds is your action score. Your action score is never greater than 10—anything over that is ignored.
 
-![How to roll the dice](images/action-roll.svg)
+![How to roll the dice](/images/action-roll.svg)
 
 To determine the outcome of your move, compare the action score to each of the challenge dice. You want it to be greater than the individual value of those dice.
 
-![How to compare the challenge dice to the action die](images/action-roll-compare.svg)
+![How to compare the challenge dice to the action die](/images/action-roll-compare.svg)
 
 There are three possible results for a move.  
 
 Strong Hit  | Weak Hit | Miss
 ------------|----------|---------
-|![Two Successes is a Strong Hit](images/result-strong.svg) Strong Hit: Your action score is greater than both the challenge dice. You succeed at what you are trying to do.|![One Susses is a Weak Hit](images/result-weak.svg) Weak Hit: Your action score is greater than only one of the challenge dice. You probably succeeded, but with a lesser effect or cost.|![No Successes is a Miss](images/result-miss.svg)Miss: Your action score isn’t greater than either of the challenge dice. You failed, or need to make some serious concessions.|
+|![Two Successes is a Strong Hit](/images/result-strong.svg) Strong Hit: Your action score is greater than both the challenge dice. You succeed at what you are trying to do.|![One Susses is a Weak Hit](/images/result-weak.svg) Weak Hit: Your action score is greater than only one of the challenge dice. You probably succeeded, but with a lesser effect or cost.|![No Successes is a Miss](/images/result-miss.svg)Miss: Your action score isn’t greater than either of the challenge dice. You failed, or need to make some serious concessions.|
 
 The move will tell you how to interpret the outcome of your action, or offer a choice. The result may include mechanical changes to your character’s status and narrative changes to the current situation.
 
@@ -160,7 +160,7 @@ The main thing to remember on a miss: Something always happens. The situation ge
 
 #### Matches
 
-![What a Match looks like](images/match.svg)
+![What a Match looks like](/images/match.svg)
 
 When you roll for a move, you should be on the lookout for a match on the challenge dice. In cooperative and solo play, this is your trigger to add a twist, create a new complication, or otherwise mix things up. Something interesting, unexpected, or unusual happens. If you’re unsure, you *Ask the Oracle*, which is a move you use to ask questions or check for inspiration. If you’re playing with a GM, a match on the challenge dice can be her prompt to introduce a surprising turn of events.
 
@@ -212,7 +212,7 @@ If both challenge dice are less than your momentum value, you may cancel them bo
 
 For example, your momentum track is at +6 and your action score is 4. You roll a 5 and an 8 on your challenge dice. You may burn momentum to cancel the 5, but not the 8. This shifts your result from a miss to a weak hit.
 
-![Hot to Burn Momentum](images/momentum-burn.svg)
+![Hot to Burn Momentum](/images/momentum-burn.svg)
 
 Burning momentum is never required. Even if you score a miss on a move and have enough momentum to cancel the challenge dice, you can choose to suffer the failure and save your momentum for a more crucial moment.
 
@@ -229,7 +229,7 @@ There is a box below the momentum track where you can record your current moment
 
 #### Suffering Negative Momentum
 
-![What Negative Momentum looks like](images/momentum-suffer.svg)
+![What Negative Momentum looks like](/images/momentum-suffer.svg)
 
 When your momentum is less than 0, and it matches the value of your action die, you must cancel your action die. You still check the success of your move by comparing your stat plus your adds to the challenge dice, but you won’t have your action die to help you.
 
@@ -254,7 +254,7 @@ A progress track is used to measure your pace and determine the outcome of a goa
 
 Progress tracks are drawn as a row of ten boxes which you fill in—or mark—as you make headway toward a goal. When you initiate a challenge, these boxes are empty.
 
-![An empty progress track](images/progress-empty.svg)
+![An empty progress track](/images/progress-empty.svg)
 
 Since making progress on your quests may stretch over many sessions, your character sheet includes progress tracks for vows. Your character sheet also includes a progress track for your bonds. For journeys and fights, you can sketch out your progress tracks on whatever is convenient.
 
@@ -272,7 +272,7 @@ Whenever you successfully move toward your goal, you partially or fully fill in 
 
 Troublesome | Dangerous | Formidable | Extreme | Epic
 ------------|-----------|------------|---------|----
- ![` of 3 full boxes](images/progress-full.svg)![2 of 3 full boxes](images/progress-full.svg)![3 of 3 full boxes](images/progress-full.svg) Mark 3 progress | ![1 of 2 full boxes](images/progress-full.svg)![2 of 2 full boxes](images/progress-full.svg) Mark 2 progress | ![1 full box](images/progress-full.svg) Mark 1 progress | ![2 Ticks](images/progress-2-tics.svg) Mark 2 ticks | ![1 Tick](images/progress-1-tic.svg) Mark 1 tick
+ ![` of 3 full boxes](/images/progress-full.svg)![2 of 3 full boxes](/images/progress-full.svg)![3 of 3 full boxes](/images/progress-full.svg) Mark 3 progress | ![1 of 2 full boxes](/images/progress-full.svg)![2 of 2 full boxes](/images/progress-full.svg) Mark 2 progress | ![1 full box](/images/progress-full.svg) Mark 1 progress | ![2 Ticks](/images/progress-2-tics.svg) Mark 2 ticks | ![1 Tick](/images/progress-1-tic.svg) Mark 1 tick
 
 ##### Marking Progress for Bonds
 
@@ -295,7 +295,7 @@ As with an action roll, if your progress score is greater than both challenge di
 
 In the example below, you would compare your +6 progress score to your challenge dice when making your progress move. The seventh progress box is only partially filled in, and won’t count toward the progress score.
 
-![What a progress score looks like](images/progress-score.svg)
+![What a progress score looks like](/images/progress-score.svg)
 
 When deciding whether to make your progress move, you need to weigh your chance of success against the risk of continuing to make preparatory moves. One thing to remember: It’s not necessary to fill your progress track before making your progress move. In fact, a weak hit or miss on a progress roll can lead to exciting new story possibilities.
 
@@ -364,13 +364,13 @@ Some moves may prompt you to roll on a table to generate a result between 1 and 
 #### Rolling Oracle Dice
 
 Whenever you are prompted by a move or an oracle table to generate a result between 1 and 100, roll two ten-sided dice.
-![Oracle Dice 1 - 100](images/oracle-dice-1.svg)
+![Oracle Dice 1 - 100](/images/oracle-dice-1.svg)
 
 One of your oracle dice may include tens digits on its faces. You’d read this result as 83.
 
 You can also use two D10s of different colors, and decide before rolling which represents the tens digit and which is the units. You’d read this result as 36.
 
-![Oracle Dice 1-10 Twice](images/oracle-dice-2.svg)
+![Oracle Dice 1-10 Twice](/images/oracle-dice-2.svg)
 
 #### Seeking Answers
 
@@ -689,11 +689,11 @@ To start, select three assets. Since this is a key aspect of your character, fee
 
 When you Fulfill Your Vow, you gain experience. The amount of experience is based on the rank of the quest, and ranges from 1 to 5 points. Mark an ‘X’ on your character sheet for each point you’ve earned.
 
-![Empty Experience Track](images/experience-empty.svg)
+![Empty Experience Track](/images/experience-empty.svg)
 
 When you Advance, you spend experience to purchase assets or upgrade an asset. Replace the ‘X’ for each point spent with a filled-in dot.
 
-![Experience Track when you have Advanced](images/experience-filled.svg)
+![Experience Track when you have Advanced](/images/experience-filled.svg)
 
 Per the Advance move, you may:
 
