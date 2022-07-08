@@ -22,7 +22,7 @@ Ironsworn leverages mechanics and creative inspiration from several amazing game
 
 This document incorporates selected content from the Ironsworn roleplaying game. If you’d like to use this text or mechanics in your own game, you may do so under the license detailed on the next page.
 
-### About Ironsworn
+#### About Ironsworn
 
 In the Ironsworn tabletop roleplaying game, you are a hero sworn to undertake perilous quests in the dark fantasy setting of the Ironlands.
 
@@ -32,25 +32,25 @@ Are you ready to swear iron vows and see them fulfilled—no matter the cost?
 
 To learn more about the Ironsworn tabletop roleplaying game, visit [ironswornrpg.com](https://www.google.com/url?q=https://www.ironswornrpg.com/&sa=D&source=editors&ust=1656108464818292&usg=AOvVaw1K21wcCQIpbCYzoaaSvYmk).
 
-## Legal
+### Legal
 
-### License
+#### License
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](https://www.google.com/url?q=https://creativecommons.org/licenses/by/4.0/&sa=D&source=editors&ust=1656108464818942&usg=AOvVaw3GiAuVDhIgYZrFgWTimel0).
 
-#### License Requirements
+##### License Requirements
 
 * You must include an attribution referencing Ironsworn (see "How to Provide Credit").
 * This license applies only to the material (text and images) within this SRD.
 * You cannot state or imply that your work is an official Ironsworn product.
 
-#### Image Source Files
+##### Image Source Files
 
 The vector source files (Adobe Illustrator format) for the illustrations and icons in this document are available for download here:
 
 [Google Drive](https://www.google.com/url?q=https://drive.google.com/open?id%3D17wvH_EY2MfX9rToRFyONp1uNFnkHawZ1&sa=D&source=editors&ust=1656108464819956&usg=AOvVaw0GEVIzmM-FPAAvyRDxrMCk)
 
-#### How to Provide Credit
+##### How to Provide Credit
 
 Wherever you put copyright information in your work, include the following text:
 
@@ -58,9 +58,9 @@ Wherever you put copyright information in your work, include the following text:
 
 Note: If you are publishing digitally, you may embed the links and omit the URL's.
 
-# PART ONE: THE BASICS
+## PART ONE: THE BASICS
 
-## Playing Ironsworn
+### Playing Ironsworn
 
 To play Ironsworn, you create your character, make some decisions about the world you inhabit, and set the story in motion. When you encounter something dangerous or uncertain, your choices and the dice determine the outcome.
 
@@ -72,7 +72,7 @@ Ironsworn supports three modes of play.
 
 > *Ironsworn* is primarily intended for solo and small group play. One to four players (plus a GM in guided mode) is ideal. The characters portrayed by other players are referred to in these rules as your allies.
 
-### What You Need
+#### What You Need
 
 If you’re playing solo, just grab some materials and get started. A session can be as long as you like, from a few minutes to a few hours.
 
@@ -86,25 +86,25 @@ Make sure you have:
 * A printed character sheet for each player and printed asset cards.
 * Some counters for marking status tracks on your character sheet. You can use paper clips, beads, dice, coins, tokens from other games, or whatever is convenient.
 
-### Mechanics and the Fiction
+#### Mechanics and the Fiction
 
 Ironsworn uses various mechanics, such as rolling dice and managing the stats and resources on your character sheet. As a player, you will often make decisions based on a desired mechanical outcome. For example, you might choose a particular action to get a bonus on your die roll. The basic mechanics of Ironsworn are introduced in this chapter.
 
 Ironsworn is also heavily reliant on the fiction, which is the imagined characters, situations, and places within your game. You will play from the perspective of your character. You will interpret actions and events in a way that is consistent with the dramatic, fictional reality you have forged for your story and your world.
 
-### Iron Vows
+#### Iron Vows
 
 Vows are the core of playing Ironsworn. It is your vows that drive you. These goals create the context for your adventures and challenges. As you complete vows, you gain experience and new abilities.
 
 When you create your character, you start with a background vow. When you setup your campaign, you envision or encounter an inciting incident which triggers a new vow. There are several prompts for vows associated with the details of the world in chapter 4, and with foes and encounters in chapter 5. You can select something which fits your vision for the world and your character’s goals, or just come up with something yourself. If you are playing in co-op mode, you and your fellow players may have shared vows and personal vows.
 
-### Your Character
+#### Your Character
 
 You use your character sheet to track your stats, overall condition, and progress in your quests. You also have assets, which are abilities you choose when you create your character and when you gain experience. These components help you determine the outcome when things get dangerous or uncertain.
 
 However, your character is more than these mechanical bits. You are the protagonist in a rich story. You have hopes and fears, virtues and failings. You have a history. You are, or were, part of a community. This is the fiction of your character. Consider a few of these details as you create your character, but don’t sweat it. You’ll evolve it through play. At the start of your game, put your character on stage to see what happens. Fill in the blanks—for your character and your world—as you go.
 
-## Moves
+### Moves
 
 Moves are self-contained systems to resolve a specific action, scene or question. There is a move for most common situations you encounter in Ironsworn. They have specific triggers, phrased as “When you \[blank\].” When your character does that thing, or you encounter that situation, refer to the move to see what happens.
 
@@ -127,7 +127,7 @@ Other moves utilize a different kind of dice roll, called an **oracle roll**. Th
 
 Some moves don’t require a roll. They might support or reference a separate move, or simply help you resolve a mechanical or narrative situation. Don’t roll dice unless a move tells you to.
 
-## The Action Roll
+### The Action Roll
 
 When you make a move representing a risky or uncertain action, you roll three dice at once.
 
@@ -158,7 +158,7 @@ The main thing to remember on a miss: Something always happens. The situation ge
 
 > Ties always go to the challenge dice. Your action score needs to exceed—not equal—the challenge dice to count as a hit.
 
-### Matches
+#### Matches
 
 ![What a Match looks like](images/match.svg)
 
@@ -171,11 +171,11 @@ The outcome of a match should be evaluated based on the result of your move.
 
 You can also let the intensity of your success or failure frame how you interpret a match. Rolling matched 10’s on your challenge dice should prompt you to introduce a harrowing turn of events or a dire failure. It’s as bad as things get.
 
-### GM’s and the Dice
+#### GM’s and the Dice
 
 If you are playing as a GM, you can focus on guiding the game and responding to your player’s questions and actions. Since NPCs don’t make moves, you won’t need to make action rolls. However, you might want to have a pair of D10’s available for oracle rolls.
 
-## Momentum
+### Momentum
 
 Momentum is a special mechanic which is central to playing Ironsworn. Your momentum value ranges from a -6 to +10 and represents how you are faring in your quests. Move results may tell you to increase or decrease momentum.
 
@@ -187,13 +187,13 @@ When you have negative momentum, the tide has turned against you. You face tough
 
 > Momentum persists through scenes and between gaming sessions. When you finish a session, write down your current momentum value. Then, pick up where you left off when you return to the game.
 
-### Gaining Momentum
+#### Gaining Momentum
 
 You gain momentum as an outcome or option when making moves. This represents securing advantages, acquiring new insight, and making progress in your quests. If a move tells you to add momentum (phrased as “take +X momentum”), increase your momentum track by the value indicated. The choices you make in a move, or the assets you use to support the move, may modify the amount rewarded.
 
 In general, taking +1 momentum represents a minor advantage. Taking +2 momentum (or more) represents a major advantage.
 
-### Losing Momentum
+#### Losing Momentum
 
 You can lose momentum as a choice when making moves, or as an outcome of a move—particularly on a weak hit or miss. If a move tells you to suffer a specific loss of momentum (phrased as “suffer -X momentum”), you reduce your momentum track by the value indicated. The options you choose in a move, or the assets you leverage, may alter this penalty.
 
@@ -204,7 +204,7 @@ If you lose momentum as a result of a narrative outcome without a defined value,
 
 Some moves and assets give you the option to suffer a loss of momentum in exchange for temporary advantages. If you take this option, adjust your momentum track by the amount indicated.
 
-### Burning Momentum
+#### Burning Momentum
 
 **Burning momentum** is a powerful option to build on your success and deliver a decisive result or avoid dire failure. When you have positive momentum, after you roll your move, you may cancel any challenge dice that are less than your current momentum value. This gives you an automatic hit.
 
@@ -218,7 +218,7 @@ Burning momentum is never required. Even if you score a miss on a move and have 
 
 After you burn momentum, you must **reset your momentum**.
 
-### Resetting Momentum
+#### Resetting Momentum
 
 After you burn momentum, you must adjust your momentum track to your momentum reset value. The default reset is +2. This value may be lowered when your character suffers from a debility. Debilities are conditions such as wounded, shaken, or unprepared. They are marked on your character sheet as a result of a move or a narrative event.
 
@@ -227,23 +227,23 @@ After you burn momentum, you must adjust your momentum track to your momentum re
 
 There is a box below the momentum track where you can record your current momentum reset.
 
-### Suffering Negative Momentum
+#### Suffering Negative Momentum
 
 ![What Negative Momentum looks like](images/momentum-suffer.svg)
 
 When your momentum is less than 0, and it matches the value of your action die, you must cancel your action die. You still check the success of your move by comparing your stat plus your adds to the challenge dice, but you won’t have your action die to help you.
 
-### Minimum Momentum
+#### Minimum Momentum
 
 Your momentum cannot drop lower than -6. This is your minimum momentum. If a move tells you to lower your momentum, and your momentum is already at its minimum, you will instead make the Face a Setback move. As a result of this move, you reduce your health, spirit, or supply (or some combination thereof) by that amount, or undermine your progress in a current quest, journey, or fight.
 
 Make moves such as Secure an Advantage to increase your momentum.
 
-### Max Momentum
+#### Max Momentum
 
 Your max momentum starts at +10, and is reduced by 1 for every marked debility. There’s a spot on your character sheet to record this value. You can’t increase momentum over your max. If you are at your max and a move gives you an option to increase your momentum, you can’t take that benefit.
 
-## Progress Tracks
+### Progress Tracks
 
 A progress track is used to measure your pace and determine the outcome of a goal or challenge in specific situations.
 
@@ -258,11 +258,11 @@ Progress tracks are drawn as a row of ten boxes which you fill in—or mark—as
 
 Since making progress on your quests may stretch over many sessions, your character sheet includes progress tracks for vows. Your character sheet also includes a progress track for your bonds. For journeys and fights, you can sketch out your progress tracks on whatever is convenient.
 
-### Challenge Ranks
+#### Challenge Ranks
 
 When you engage in a fight, initiate a journey, or swear a vow, you give your challenge a rank. In increasing order of difficulty, the ranks are troublesome, dangerous, formidable, extreme, and epic. You (or the GM) will choose a rank appropriate to the situation and how quickly or easily it should be resolved. Troublesome is used for simple challenges. A typical challenge is dangerous or formidable. Epic and extreme challenges require great effort and luck to overcome.
 
-### Marking Progress
+#### Marking Progress
 
 You will perform specific moves to advance toward your goal. For example, as you travel across perilous lands, you Undertake a Journey and mark progress as you successfully reach waypoints in your travel.
 
@@ -274,11 +274,11 @@ Troublesome | Dangerous | Formidable | Extreme | Epic
 ------------|-----------|------------|---------|----
  ![` of 3 full boxes](images/progress-full.svg)![2 of 3 full boxes](images/progress-full.svg)![3 of 3 full boxes](images/progress-full.svg) Mark 3 progress | ![1 of 2 full boxes](images/progress-full.svg)![2 of 2 full boxes](images/progress-full.svg) Mark 2 progress | ![1 full box](images/progress-full.svg) Mark 1 progress | ![2 Ticks](images/progress-2-tics.svg) Mark 2 ticks | ![1 Tick](images/progress-1-tic.svg) Mark 1 tick
 
-#### Marking Progress for Bonds
+##### Marking Progress for Bonds
 
 If you are marking progress on your bonds progress track, you always mark 1 tick unless a move tells you otherwise. Bonds are not given a challenge rank.
 
-### Progress Moves
+#### Progress Moves
 
 There are four moves, called progress moves, which utilize progress tracks to resolve the outcome of a goal or challenge.
 
@@ -287,7 +287,7 @@ There are four moves, called progress moves, which utilize progress tracks to re
 * To decide the outcome of combat, End the Fight.
 * When you retire from your life as Ironsworn, Write Your Epilogue.
 
-### Progress Rolls
+#### Progress Rolls
 
 You don’t make an action roll when you make a progress move. Instead, you tally the number of fully filled progress boxes (those with four ticks). This is your progress score. Then, roll your challenge dice and compare your progress score to the value of the dice.
 
@@ -299,25 +299,25 @@ In the example below, you would compare your +6 progress score to your challenge
 
 When deciding whether to make your progress move, you need to weigh your chance of success against the risk of continuing to make preparatory moves. One thing to remember: It’s not necessary to fill your progress track before making your progress move. In fact, a weak hit or miss on a progress roll can lead to exciting new story possibilities.
 
-#### Momentum and Progress Rolls
+##### Momentum and Progress Rolls
 
 Momentum is ignored when you make a progress move. You cannot burn momentum on a progress roll, and you do not suffer from negative momentum.
 
-### Sharing Progress Tracks with Allies
+#### Sharing Progress Tracks with Allies
 
 When you and your allies are working together to resolve a challenge—a quest, a journey, or a fight—you share a progress track and mark progress together. When you make a progress move, only one of you rolls the dice. The result will stand for the group.
 
-## Harm
+### Harm
 
 Harm represents physical damage and fatigue. You inflict harm on your foes in combat, and you Endure Harm when you are attacked or fail to overcome a physical hazard or ordeal.
 
-### Inflicting Harm
+#### Inflicting Harm
 
 When you successfully attack a foe using the Strike or Clash moves, you inflict harm. If you are armed with a deadly weapon (such as a sword, axe, spear, or bow), you inflict 2 harm. If you are unarmed or using an improvised or simple weapon (such as a shield, stick, club, staff, or rock), you inflict 1 harm. You may have an option to inflict additional harm through the choices you make in a move.
 
 Each point of harm you inflict is marked as progress on your foe’s progress track, as appropriate to their rank. For example, each point of harm equals 2 ticks when fighting an extreme enemy, or 2 full progress boxes when fighting a dangerous enemy.
 
-### Enduring Harm
+#### Enduring Harm
 
 When you face physical injury or hardship, make the Endure Harm move. As part of that move, you reduce your health track by the amount of harm suffered. There are five ranks of harm.
 
@@ -331,7 +331,7 @@ When you are fighting a foe, they inflict harm based on their rank. Sample foes 
 
 If you are at 0 health, a miss on the Endure Harm move puts you at risk of suffering a debility or dying. You can recover health through rest and recuperation, using moves such as Heal, Make Camp, and Sojourn.
 
-## Stress
+### Stress
 
 Stress represents mental burdens and trauma. When you face mental shock or despair, make the Endure Stress move. As part of that move, you reduce your spirit track by the amount of stress suffered. There are five ranks of stress.
 
@@ -351,17 +351,17 @@ You can recover spirit by relaxing when you Make Camp, finding fellowship when y
 
 Unlike harm, you do not inflict stress on others—at least not mechanically. If you attempt to frighten or demoralize another character, make an appropriate move to see what happens.
 
-## Assets
+### Assets
 
 Assets are a key component of your character. They give you additional options and bonuses when making a move, and may include their own special moves. When you create your character, you select your starting assets. When you Fulfill Your Vow and gain experience, you can Advance to spend your experience on new assets or upgrade current assets.
 
 You can mix-and-match assets however you like. There are no designated assets based on character classes or roles. However, you should avoid picking the same asset as another player.
 
-## Oracles
+### Oracles
 
 Some moves may prompt you to roll on a table to generate a result between 1 and 100. There are also a set of creative prompts in chapter 6, which you can use to reveal details, trigger events, and guide the actions of other characters in your world. These oracles help answer questions in solo or co-op games, or provide inspiration for the GM in guided play.
 
-### Rolling Oracle Dice
+#### Rolling Oracle Dice
 
 Whenever you are prompted by a move or an oracle table to generate a result between 1 and 100, roll two ten-sided dice. 
 ![Oracle Dice 1 - 100](images/oracle-dice-1.svg)
@@ -372,7 +372,7 @@ You can also use two D10s of different colors, and decide before rolling which r
 
 ![Oracle Dice 1-10 Twice](images/oracle-dice-2.svg)
 
-### Seeking Answers
+#### Seeking Answers
 
 If you are playing solo or co-op, you can Ask the Oracle to help guide your game session and trigger ideas when you need to know what happens next. Its most basic function is to answer a “yes” or “no” question. Combined with your own instincts and creativity, this move—and other random prompts—can push your story in surprising and exciting directions.
 
@@ -380,17 +380,17 @@ If you are playing with a GM, they are the oracle. When you see a prompt to Ask 
 
 Keep in mind that—even when playing with a GM—Ironsworn is about shared storytelling. Offer suggestions. Talk it out. The GM is the final arbiter of what happens next, but everyone at the table should participate in building the world and creating the narrative of your game.
 
-### More Randomness
+#### More Randomness
 
 You’ll find a set of random tables in chapter 6. These provide inspirational prompts and random results for common situations. You can also use whatever random generators you prefer, including those drawn from another game, online generators, or visual tools such as tarot cards.
 
-### Trust Your Instincts
+#### Trust Your Instincts
 
 These random generators will never replace your own imagination and intuition. If it’s interesting, dramatic, and pushes the story forward, make it happen. Too much reliance on random generators to answer questions about “what happens next” can kill the momentum of your game or make it feel disconnected and incoherent.
 
 Keep it moving. Ask a question. If an answer leaps to mind, go with it. If you’re not sure, Ask the Oracle. Then, play.
 
-## Bonds
+### Bonds
 
 As you explore your world and complete quests, you create bonds with people and communities by making the Forge a Bond move. Bonds give you advantages for specific moves when interacting with those you have bonded with. For example, if you attempt to Compel someone, and you share a bond with them, you add +1 to your roll. The moves tell you when having a bond provides this advantage.
 
@@ -398,17 +398,17 @@ Bonds also help determine your fate when you retire from your life as an adventu
 
 Your character sheet has a special progress track for bonds. When you successfully Forge a Bond, mark 1 tick on this progress track. When your adventures are complete and you Write Your Epilogue, tally your bonds and make a progress roll to wrap up your character’s story.
 
-## Other Characters
+### Other Characters
 
 The mechanics of Ironsworn are almost entirely character-facing—meaning they reference the capabilities and actions of your character. Other non-player characters and creatures (NPCs) don’t have mechanical detail. In fact, they may only have a single stat—their rank—for tracking progress against them in a combat scene. Further, NPCs do not make moves. You won’t roll dice for them to determine the outcome of their actions. When you attempt to influence them, oppose them, resist them, or aid them, make moves as your character. If you have questions about an NPC’s motivations or what they do next, Ask the Oracle.
 
-### Allies and Companions
+#### Allies and Companions
 
 If you are playing a co-op or guided game with other players, their characters are referred to in these rules and in moves as your allies.
 
 A companion is a special type of asset. Unlike normal NPCs, they can provide mechanical benefits through their abilities, and they have a health track to record harm. If the text of a move refers to a companion, it means a companion asset.
 
-## Equipment
+### Equipment
 
 In Ironsworn, you won’t worry too much about equipment. Your supply track is an abstract representation of your general readiness, clothes, ammo, food, water, and mundane gear.
 
@@ -422,7 +422,7 @@ Specific assets can make equipment more important and relevant to your character
 
 Apart from assets, you can make note of equipment at whatever level of detail you like, but don’t fuss over it. If you’re wondering whether you have a particular mundane item, you can Ask the Oracle.
 
-## The Flow of Play
+### The Flow of Play
 
 Like most roleplaying games, you play primarily from the perspective of your character. What are you doing? What are you trying to achieve? What opposition and challenges do you face? Your quests, and the characters and situations you encounter, will guide the fiction and the choices you make.
 
@@ -434,37 +434,37 @@ Scoring a strong hit on a move means you are in control. You’re driving the na
 
 A weak hit or a miss means you don’t have control of the situation. Instead of acting, you react. What happens next? If you’re playing with a GM, she’ll determine how the world responds. Otherwise, you rely on your intuition and occasional oracle rolls to drive the narrative.
 
-# PART TWO: YOUR CHARACTER
+## PART TWO: YOUR CHARACTER
 
-## You are Ironsworn
+### You are Ironsworn
 
 Others live out their lives hardly venturing beyond the walls of their village or steading, but you are different. Your sworn vows will lead to a life of danger, heroism, and sacrifice at the edge of the known world.
 
-### Envision Your Character
+#### Envision Your Character
 
 Before you jump into the mechanics of your character, consider her motivations, interests, skills, personality, and weaknesses. It’s fine to start with one or two ideas about your background and goals. You can flesh out your character as you play.
 
-#### Be Awesome
+##### Be Awesome
 
 Your character is highly competent. You’re smart, brave, and driven. You can hold your own in a fight. When you Swear an Iron Vow, you mean it.
 
 You are not without your limitations. You’ll face hardship. You’ll make bad decisions. You will fail. Overcoming those failures, pushing on, is what makes you heroic.
 
-#### Be Who You Want
+##### Be Who You Want
 
 You can envision your character however you like—unbound by geography, lineage, sexual orientation, and gender. Your character can be inspired directly by a real-world or historical culture, or you might weave a blend of cultural influences into your concept.
 
 The default setting is human-centric, and these rules do not include specific options to play fantasy races. However, you can adjust to your liking. The mechanics of your character are relatively light and can be themed to support several types of fantasy or historical fiction.
 
-## Character Basics
+### Character Basics
 
-### Name
+#### Name
 
 You have a name. Perhaps others will honor it someday in stories and songs.
 
 Give your character a name.
 
-### Stats
+#### Stats
 
 There are five stats. Each is given a value from 1 to 3. When you make a move and roll dice, you usually add one of your stats to your action die. The move will tell you which stat to add, or give you a choice.
 
@@ -478,7 +478,7 @@ To start, arrange these bonuses across your five stats in any order:
 
 3, 2, 2, 1, 1.
 
-### Health
+#### Health
 
 Health represents your current physical condition and stamina, ranked from 0 to +5. Health is reduced when you Endure Harm, and increased when you rest or receive care through moves such as Heal or Sojourn.
 
@@ -486,7 +486,7 @@ If you are at 0 health, scoring a miss when you Endure Harm puts you at risk of
 
 To start, set your health track to +5.
 
-### Spirit
+#### Spirit
 
 Spirit is your current mental state, ranked from 0 to +5. Spirit is reduced when you Endure Stress. It is increased when you find comfort in companionship, success, or relaxed moments through moves such as Make Camp or Forge a Bond.
 
@@ -494,7 +494,7 @@ If you are at 0 spirit, scoring a miss when you Endure Stress puts you at risk 
 
 To start, set your spirit track to +5.
 
-### Supply
+#### Supply
 
 Supply is an abstract representation of your preparedness, including ammo, food, water, and general upkeep. It is ranked from 0 to +5. Instead of keeping track of a detailed inventory, you can consider most of your mundane gear as covered under supply.
 
@@ -506,7 +506,7 @@ When your supply falls to 0, all characters make the Out of Supply move. If you
 
 To start, set your supply track to +5. You and your allies share the same supply value while you adventure together. When one of you makes a move that raises or lowers the supply track, each of you should make the adjustment on your character sheet.
 
-### Momentum
+#### Momentum
 
 Momentum represents how you are faring in your quests. It is gained and lost through moves. If you have positive momentum, you are building on your successes and ready to make decisive moves. If you have negative momentum, you have suffered setbacks and your quest is in jeopardy.
 
@@ -517,13 +517,13 @@ Use the momentum track on the left side of your character sheet to record your c
 
 To start, set your current momentum to +2, your max momentum to +10, and your momentum reset to +2.
 
-## Vows
+### Vows
 
 When you Swear an Iron Vow, you give it a rank (troublesome, dangerous, formidable, extreme, or epic), and mark it on your character sheet. You then use a vow progress track to mark when you Reach a Milestone.
 
 You should start your first session with two vows: A long term goal (your background vow) and an immediate situation which must be dealt with (your inciting incident).
 
-## Bonds
+### Bonds
 
 As you build relationships and undertake and complete quests in the service of others, you create bonds by making the Forge a Bond move.
 
@@ -533,7 +533,7 @@ The bonds progress track on your character sheet represents the connections you 
 
 You should start your first session with up to three background bonds. Make a note of the people or communities you share bonds with, and mark up to three ticks on your bond progress track.
 
-## Debilities
+### Debilities
 
 As you suffer hardships and setbacks in your quests, you may need to mark debilities as a result of moves or narrative events. Moves will tell you which debility to mark, or give you a choice. Debilities represent temporary, long-term, and permanent disadvantages. Some can be easily cleared through an appropriate move. Others will forever become a part of your character.
 
@@ -543,7 +543,7 @@ Debilities should have a narrative impact on how you envision your character’s
 * If you have one marked debility, your momentum reset is +1 instead of +2.
 * If you have more than one marked debility, your momentum reset is 0.
 
-### Conditions
+#### Conditions
 
 * Wounded may be marked when you are at 0 health and fail to Endure Harm. You are severely injured and need treatment to recover.
 * Shaken may be marked when you are at 0 spirit and fail to Endure Stress. You are despairing or distraught, and need comfort to recover.
@@ -562,7 +562,7 @@ Wounded, shaken, and unprepared can be cleared when you succeed on appropriate m
 
 Unlike other conditions, encumbered is not specifically triggered or resolved by a move. Instead, it should be marked when appropriate to the circumstances. For example, you would mark encumbered if you are carrying an unconscious ally to safety in a perilous situation. Encumbered can also be triggered by the Ironclad asset, which allows you to gain an advantage for heavy armor in exchange for marking the condition. Encumbered is cleared when you lighten your load.
 
-### Banes
+#### Banes
 
 * Maimed may be marked when you are at 0 health and fail to Endure Harm. You have suffered a wound which causes you ongoing physical challenges, such as the loss of an eye or hand. Or, you bear horrific scars which serve as a constant reminder of your failures.
 * Corrupted may be marked when you are at 0 spirit and fail to Endure Stress. Your experiences have left you emotionally scarred. You are at the threshold of losing yourself to darkness.
@@ -573,7 +573,7 @@ If you are maimed, envision the injury and make note of it. Consider how this im
 
 When you are corrupted, envision how this impacts your personality and motivations. You might struggle with a new compulsion, quirk, or fear. You might even bear a physical, supernatural sign of the corruption. If so, what is it?
 
-### Burdens
+#### Burdens
 
 * Cursed is marked when you Face Death and return with a soul-bound quest. This burden can only be cleared by completing the quest.
 * Tormented is marked when you Face Desolation and undertake a quest to prevent a dire future.
@@ -584,7 +584,7 @@ When you are cursed or tormented, you should consider the physical or emotional 
 
 When you create your character, all debilities should be unmarked.
 
-## Assets
+### Assets
 
 Assets represent your background, skills, and traits. They give you additional options and bonuses when making a move—or sometimes act as their own self-contained moves.
 
@@ -592,33 +592,33 @@ Assets provide both mechanical and narrative benefits. For example, if you are a
 
 Ironsworn assets are formatted as printable cards. Put them alongside your character sheet for easy reference. Each asset card includes three abilities.
 
-### Asset Types
+#### Asset Types
 
 There are four types of assets: Companions, paths, combat talents, and rituals. You can mix-and-match assets as you like—whatever fits your vision for your character and their experiences and goals.
 
-#### Companions
+##### Companions
 
 Companions are your NPC helpers. When you acquire a companion, give them a name and envision their appearance and personality. If they don’t have a starting ability, choose one. Upgrading a companion enables additional abilities.
 
 Companions utilize a health track and may suffer harm as a result of one of your moves. When your companion takes damage, make the Companion Endure Harm move to determine the outcome. See to learn more.
 
-#### Paths
+##### Paths
 
 Paths represent your background, interests, training, and skills. They provide mechanical and narrative advantages, but also reflect who you are and how you interact with the world. For example, a Ritualist would likely have a different outlook than a Veteran. Choosing both those paths can reflect an evolution of your character or an interesting background.
 
-#### Combat Talents
+##### Combat Talents
 
 Ironsworn characters are assumed to be skilled fighters. Even without a combat talent, you can wield weapons and perform combat moves. A combat talent reflects a particular area of expertise, and gives you additional options and bonuses.
 
 Combat talent assets typically require you to wield a specific weapon, as noted in the asset text. For example, if you are a Shield-Bearer and don’t have a shield at the ready, you can’t use the asset’s abilities.
 
-#### Rituals
+##### Rituals
 
 ​Magic in Ironsworn is cast through rituals which help support your actions or act as unique moves. Like all assets, rituals can be selected as you gain experience and can be upgraded over time to make them more flexible or powerful.
 
 All rituals utilize a move as their default marked ability. You must make this move and the associated action roll to trigger the effect. Any secondary abilities you gain by upgrading the asset are dependent on performing the ritual described as the default ability.
 
-### Acquiring Assets
+#### Acquiring Assets
 
 You may select three assets when you create your character. Additional assets can be acquired with experience points when you Advance.
 
@@ -632,13 +632,13 @@ For example:
 
 For assets without a requirement, you should consider the narrative justification when you add it to your character. What have you done to gain these abilities? How have your goals changed to support this new focus? Make your selection meaningful in the context of your story.
 
-### Upgrading Assets
+#### Upgrading Assets
 
 When you spend experience to upgrade an asset, you fill in the dot on your asset card to show you’ve acquired the ability. All assets include three abilities. The first will probably be filled in when you purchase the asset. If not, you get to choose one of the three abilities to start.
 
 Upgrading an asset costs 2 experience. Abilities may be selected in any order. You don’t have to activate the second ability to upgrade the third one.
 
-### Asset Abilities
+#### Asset Abilities
 
 Assets provide one or more functions.
 
@@ -653,31 +653,31 @@ Assets provide one or more functions.
 
 Follow the directions on the asset to apply its abilities to your current situation.
 
-### Ability Requirements
+#### Ability Requirements
 
 Narrative circumstances and the outcome of failed moves may force you into situations where you can’t leverage a key asset, making your adventure more challenging and dramatic.
 
 For example, if you don’t have a animal pelt, you can’t perform the Bind ritual. If you Undertake a Journey without your Horse companion, you won’t gain the bonus. If you are an Archer who’s run out of arrows, you’ll have to try something else. Before you make a move using an asset, take a moment to ensure you are properly positioned and equipped to use those abilities.
 
-### Using Companion Abilities
+#### Using Companion Abilities
 
 If you have a companion, leveraging their abilities is an option, not a requirement. Through the fiction, you can interact with your companion and have them perform tasks or assist you without using one of the asset abilities. For example, a Horse companion can put you in position to travel at speed or get away from danger.
 
 When you leverage a companion’s ability, you are inherently putting them at risk. If you roll a 1 on your action die when aided by a companion, any negative outcome of the move should involve your companion. Depending on the circumstances, they might suffer harm, be put in danger, become separated from you, or refuse your commands.
 
-#### Inflicting Harm on Companions
+##### Inflicting Harm on Companions
 
 When a companion suffers physical damage, you make the Companion Endure Harm move. When their health is at 0, they are in danger of being killed. Some moves, such as Sojourn and Make Camp, offer options for your companion to recover health.
 
-#### Slain Companions
+##### Slain Companions
 
 If your companion is killed, give yourself 1 experience point for each marked ability. Then, remove the asset. If you acquire the same type of companion through the narrative of your quest and journeys, you can rebuy the asset at the normal cost.
 
-### Failing an Asset Move
+#### Failing an Asset Move
 
 For the sake of brevity, moves within an asset do not usually describe the result of a miss. If an asset offers a self-contained move, and doesn’t provide a specific consequence for a miss, you can leverage the miss result of the Face Danger move : “On a miss, you fail, or your progress is undermined by a dramatic and costly turn of events. Pay the Price.” In short, make something negative happen as appropriate to the circumstances.
 
-#### Failed Rituals
+##### Failed Rituals
 
 Dabbling in the mystic arts is dangerous, and the results can be unpredictable. If the ritual goes wrong, envision what sort of backlash might be possible, or Ask the Oracle.
 
@@ -685,7 +685,7 @@ Failing a ritual might also lead to an entirely mundane result. Perhaps you were
 
 To start, select three assets. Since this is a key aspect of your character, feel free to choose assets as the first step in character creation. You can let your assets guide your concept, or vice versa.
 
-## Experience
+### Experience
 
 When you Fulfill Your Vow, you gain experience. The amount of experience is based on the rank of the quest, and ranges from 1 to 5 points. Mark an ‘X’ on your character sheet for each point you’ve earned.
 
@@ -702,7 +702,7 @@ Per the Advance move, you may:
 
 To start, your experience is unmarked.
 
-## Equipment
+### Equipment
 
 Make note of any important equipment or items you start with. These are things that might impact the narrative and the moves you make, or provide texture to your character’s background. They don’t offer mechanical bonuses unless they are represented by an asset, such as a weapon used in a combat talent.
 
@@ -710,7 +710,7 @@ You can assume you are equipped for travel and adventure as represented by your 
 
 To start, make note of any items which have a narrative impact and equipment which relates to your assets. Keep it simple.
 
-## Character Creation Summary
+### Character Creation Summary
 
 Work through the following steps in whatever order you prefer.
 
@@ -724,15 +724,15 @@ Work through the following steps in whatever order you prefer.
 * Make note of any important equipment or items.
 * Set a background vow, and give it a rank of extreme or epic. Then, envision your inciting incident and Swear an Iron Vow.
 
-# PART THREE: MOVES
+## PART THREE: MOVES
 
-## Making Moves
+### Making Moves
 
 Moves help you decide what happens when you do something risky or uncertain, and they resolve various fictional and mechanical situations. There is a move for most common actions and scenes you will portray in Ironsworn. When you do something or encounter a situation within the scope of a move, refer to the move and follow its instructions to see what happens.
 
 When a move is referenced within this rulebook or within another move, the move’s name will be italicized. When you see italicized text, it’s your prompt to make that move.
 
-### Move Outcomes
+#### Move Outcomes
 
 Most moves use an action roll to resolve the outcome. Roll your action die and challenge dice, add the relevant stat to your action die along with any adds provided by the move or your assets, and check the result.
 
@@ -746,15 +746,15 @@ Other moves leverage an oracle roll  to help guide the fiction. You’ll roll t
 
 Some moves don’t use dice at all; don’t roll unless the move tells you to.
 
-### Best Practices for Moves
+#### Best Practices for Moves
 
-#### Fiction first, then move
+##### Fiction first, then move
 
 What are you trying to do? How are you doing it? What complications might you face? Envision it. If you’re playing co-op or guided, talk it out. If—after thinking through the fiction—you decide you are doing something or encountering a situation that falls under a move, make the move.
 
 Depending on the scale of the current action, you might be visualizing a montage of days (a journey, for example) or the passing of a mere second (an intense fight). Always think from the standpoint of the fiction—even if it’s obvious what move you’ll make. Then, translate the fiction into the mechanics of a move, and back to the fiction again as you play out the result.
 
-#### Not everything is a move
+##### Not everything is a move
 
 Don’t let your session jump from move to move without any roleplay, worldbuilding, or storytelling. If you’re doing something safe and certain, it’s probably not a move. If you’d rather gloss over something, do it.
 
@@ -762,7 +762,7 @@ Many moves offer a potential benefit and cost, and it’s ultimately your decisi
 
 Moves are also used as a pacing mechanism. Moves leading immediately to other moves make the situation feel more intense and dangerous.
 
-#### Make Moves Matter
+##### Make Moves Matter
 
 Let your moves flow organically out of the narrative. Don’t make moves purely for a mechanical benefit without some support in the fiction. Don’t repeat a move trying to get your desired outcome. A move, hit or miss, should always result in a change to the current situation.
 
@@ -770,7 +770,7 @@ For example, you are trying to Compel a clan leader to agree to an alliance. Yo
 
 However, there will be times when you make a move multiple times in sequence. In combat, you’ll often Strike or Clash with consecutive rolls. When you Undertake a Journey, you may make the roll several times to gain progress. That’s fine as long as the rolls don’t get too mechanical. Break up the flow of play with other actions, narrative beats, and events that cause you to rethink your approach. When in doubt, follow this guideline: If you’ve made the same move three times in a row, switch things up. Make something happen.
 
-### Making Group Moves
+#### Making Group Moves
 
 When you are adventuring with allies (other player characters), you will often make moves to resolve a challenge for the group. This represents your character taking the lead in a particular scene. You might serve as the spokesperson as you Compel an enemy to negotiate a surrender. Or, you might guide your party through a dense wood as you Undertake a Journey. Unless a move specifically offers benefits for your allies, any mechanical bonus you gain from a hit is applied only to the character making the move. For example, if you represent your group as you Swear an Iron Vow and score a strong hit, you take the mechanical reward (per the move, “take +2 momentum”). Everyone else benefits from the narrative success.
 
@@ -780,15 +780,15 @@ Allies can contribute to your action by making the Aid Your Ally move. On a hit
 
 When you make a move for your group and face a negative outcome, you should apply mechanical and narrative costs as appropriate to the current situation.
 
-### Making Progress Moves
+#### Making Progress Moves
 
 There are four progress moves: Reach Your Destination, End the Fight, Fulfill Your Vow and Write Your Epilogue. These moves represent your attempt to act decisively and resolve a challenge or complete a narrative arc. When you make these moves, you won’t roll your action die and add a stat. Instead, you tally your progress score by adding +1 for each fully filled progress box. Then, roll your challenge dice, compare to your progress score, and resolve the move as directed. You cannot burn momentum when making a progress move, and you are not affected by negative momentum.
 
-### Equipment and Moves
+#### Equipment and Moves
 
 Equipment and items can contribute to the fiction of how you make or avoid a move. What you wear or the items you carry might also affect how you envision your character. Otherwise, equipment is not especially important.
 
-#### Weapons and Armor
+##### Weapons and Armor
 
 In combat, the weapons you wield and armor you wear mainly provide narrative detail for the scene. When you envision how you fight, take your equipment into account.
 
@@ -800,7 +800,7 @@ You can lose a weapon, run out of ammo, or see your armor damaged as a result of
 
 If you have a combat talent asset, your weapon and armor may provide additional benefit through abilities. As long as you carry the item, you may use those abilities.
 
-### Initiative
+#### Initiative
 
 Initiative is a special mechanic in combat. It reflects who is in control. When you have initiative, you make proactive moves and have more options. When your foe has initiative against you, they are forcing you to react. Initiative shifts between you and your foes depending on the result of your moves. Some moves are inherently proactive or offensive and can only be made when you have initiative. Others are reactive or defensive and are made when your foe has initiative.
 
@@ -813,91 +813,91 @@ The ability to take initiative on a strong hit applies even to suffer moves. For
 
 NPCs do not make moves. When an NPC has initiative, they take actions in the fiction of the scene which force you to react. When you have initiative, you are in control and taking proactive actions to achieve your objectives.
 
-#### Initiative and Allies
+##### Initiative and Allies
 
 When you are playing with allies (other player characters), you each track your own initiative based on the outcome of your moves. You can shift the focus between characters and make moves as appropriate to the situation. A character with initiative makes proactive moves to inflict harm or setup an advantage. A character without initiative defends against attacks or tries to get back into the fight.
 
 Keep in mind that initiative doesn’t represent who goes next. Talk out what happens as if moving a virtual camera around your imagined scene. Bring the chaos of a melee to life. Use a dramatic moment to jump to a different character and leave everyone in suspense. Keep things moving to give everyone a chance in the spotlight.
 
-### Move Glossary
+#### Move Glossary
 
 There are several common phrases, terms, and prompts you’ll see as part of moves and assets. They are summarized here (in alphabetical order).
 
-#### “Add +X”
+##### “Add +X”
 
 Add this number to your action die. This is in addition to any other bonuses you otherwise receive, such as your stat. Your action die + your stat + adds is your final action score.
 
-#### “Allies / Ally”
+##### “Allies / Ally”
 
 An ally is a character controlled by another player.
 
-#### “Ask the Oracle”
+##### “Ask the Oracle”
 
 When you seek inspiration to decide the outcome of a move, resolve what happens next, or get details about your world, you can Ask the Oracle. This move lets you ask questions to get a yes/no result or use random prompts for brainstorming. When you are playing with a GM, they are the oracle. Ask them what happens, or talk it out.
 
-#### “Companion”
+##### “Companion”
 
 A companion is an NPC asset.
 
-#### “Choose”
+##### “Choose”
 
 The move will provide a list of options and the number you may select. You may not select a single option more than once.
 
-#### “Endure Harm (X Harm)”
+##### “Endure Harm (X Harm)”
 
 Make the Endure Harm move reducing your health track by the indicated amount of harm.
 
-#### “Endure Stress (X Stress)”
+##### “Endure Stress (X Stress)”
 
 Make the Endure Stress move, reducing your spirit track by the indicated amount of stress.
 
-#### “In Exchange for”
+##### “In Exchange for”
 
 Adjust the appropriate tracks by the amount indicated in the move. Typically, you will trade +1 in one track for -1 in another.
 
-#### “Inflict your Harm”
+##### “Inflict your Harm”
 
 When you inflict your harm, you mark progress against your foe. If you are armed with a deadly weapon (such as a sword, axe, spear, or bow), you inflict 2 harm. If you are unarmed or using an improvised or simple weapon (such as a shield, stick, club, staff, or rock), you inflict 1 harm.
 
 Each point of harm you inflict is marked as progress on your foe’s progress track, as appropriate to their rank. For example, each point of harm equals 2 ticks when fighting an extreme enemy, or 2 full progress boxes when fighting a dangerous enemy.
 
-#### “Inflict +X Harm”
+##### “Inflict +X Harm”
 
 “Inflict +1 Harm” tells you to add 1 harm to your current attack. Some assets increase your harm in particular circumstances, or a move might give you an option to increase your harm. You must inflict harm as a result of your move to gain the bonus. Always add your harm and any bonus harm together, then apply it to your foe’s progress track.
 
-#### “On a Hit” / “If You Score a Hit”
+##### “On a Hit” / “If You Score a Hit”
 
 Act on these instructions if you score a weak or strong hit on a move (your move score beats one or both of the challenge dice).
 
-#### “On a Weak Hit” / “If You Score a Weak Hit”
+##### “On a Weak Hit” / “If You Score a Weak Hit”
 
 Act on these instructions if your move score is greater than one challenge die, but less than or equal to the other.
 
-#### “On a Strong Hit” / “If You Score a Strong Hit”
+##### “On a Strong Hit” / “If You Score a Strong Hit”
 
 Act on these instructions if your move score is greater than both challenge dice.
 
-#### “On a Miss” / “If You Score a Miss”
+##### “On a Miss” / “If You Score a Miss”
 
 Act on these instructions if your move score does not beat either of the challenge dice.
 
-#### “Pay the Price”
+##### “Pay the Price”
 
 When you roll a miss on a move, you’ll usually see a prompt to Pay the Price. This move helps you resolve the outcome of failure. If you’re playing without a GM, you make the most obvious or interesting bad outcome happen based on the current circumstances, roll on the Pay the Price table to see what happens, or Ask the Oracle. If you’re playing with a GM, they can decide what happens, ask you to roll on the table, or talk it with the group.
 
-#### “Progress Move”
+##### “Progress Move”
 
 This is a special type of move to resolve the outcome of a goal or challenge. When you make a progress move, tally the number of filled boxes on your bonds progress track as your progress score. Only add fully filled boxes (those with four ticks). Then, roll your challenge dice, compare to your progress score, and resolve a strong hit, weak hit, or miss as normal. You may not burn momentum on this roll, and you are not affected by negative momentum.
 
-#### “Reroll Any Dice”
+##### “Reroll Any Dice”
 
 After you roll your move, you may pick up and reroll your choice of any dice, including either or both of the challenge dice and your action die. Set aside the dice you intend to keep. You may only reroll once, using a single throw for all dice you choose to reroll. Choose carefully, because the new result for all dice must stand.
 
-#### “Roll +\[Stat\]”
+##### “Roll +\[Stat\]”
 
 Add the value of the indicated stat to your action die. This is the basic action roll. Most moves indicate the stat you should use, such as “roll +iron”. If it doesn’t, or gives you a choice, use the most appropriate stat.
 
-#### “Suffer -X”
+##### “Suffer -X”
 
 Subtract this number from the indicated track. For example, “Suffer -1 supply” tells you to subtract 1 from your supply track. If a specific amount is open to interpretation, reduce the track as appropriate to the challenge faced.
 
@@ -913,21 +913,21 @@ When you are fighting a foe, they inflict harm and stress based on their rank. F
 
 When in doubt about the amount you suffer, just assume it is a dangerous result and adjust the associated track by -2.
 
-#### “Take +X”
+##### “Take +X”
 
 Add this number to the indicated track. For example, “Take +2 momentum” tells you to add 2 to your current momentum track.
 
 Some assets may offer additional bonuses. Unless stated otherwise, this bonus is added to anything else you gain as a result of your move. If you take +2 momentum as part of a move, and you are using an asset which gives you +1 momentum on the same move, you take +3 momentum total.
 
-#### “When You…”
+##### “When You…”
 
 This is the move trigger. When you do this thing, or encounter this situation, make the move. Only you, the character, makes moves. You or the GM don’t use moves for non-player characters or creatures. If you’re just checking to see if something happens or how someone acts, you can Ask the Oracle.
 
-## Adventure Moves
+### Adventure Moves
 
 Adventure moves are used as you travel across perilous, investigate situations, and deal with threats.  
 
-### Face Danger
+#### Face Danger
 
 When you attempt something risky or react to an imminent threat, envision your action and roll. If you act...
 
@@ -956,7 +956,7 @@ A weak hit means you overcome the obstacle or avoid the threat, but not without 
 
 A miss means you are thwarted in your action, fail to oppose the threat, or make some progress but at great cost. You must Pay the Price.  
 
-### Secure an Advantage
+#### Secure an Advantage
 
 When you assess a situation, make preparations, or attempt to gain leverage, envision your action and roll. If you act...
 
@@ -985,7 +985,7 @@ A weak hit means your action has helped, but your advantage is fleeting or a new
 
 A miss means your attempt to gain advantage has backfired. You acted too slowly, presumed too much, or were outwitted or outmatched. Pay the Price.  
 
-### Gather Information
+#### Gather Information
 
 When you search an area, ask questions, conduct an investigation, or follow a track, roll +wits. If you act within a community or ask questions of a person with whom you share a bond, add +1.
 
@@ -1005,7 +1005,7 @@ A weak hit means what you learned is unsettling or ambiguous. To move forward, y
 
 On a miss, some event or person acts against you, a dangerous new threat is revealed, or you learn of something which contradicts previous information or severely complicates your quest.  
 
-### Heal
+#### Heal
 
 When you treat an injury or ailment, roll +wits. If you are mending your own wounds, roll +wits or +iron, whichever is lower.
 
@@ -1023,7 +1023,7 @@ A miss can mean you’ve caused harm rather than helping, or some perilous event
 
 NPCs who are not companions do not have a health track. When you attempt to Heal them, make this move and apply the result through the fiction. They will improve, or not, as appropriate to the move’s outcome.
 
-### Resupply
+#### Resupply
 
 When you hunt, forage, or scavenge, roll +wits.
 
@@ -1039,7 +1039,7 @@ If you’re adventuring with allies, you share the same supply value. When one o
 
 If you have the unprepared condition marked, you can’t resupply. Instead, you need to find help in a community when you Sojourn.  
 
-### Make Camp
+#### Make Camp
 
 When you rest and recover for several hours in the wild, roll +supply.
 
@@ -1063,7 +1063,7 @@ If you are traveling with allies, only one of you makes this roll for the group.
 
 On a miss, you gain no benefits of your downtime. Perhaps you suffered troubling dreams (Endure Stress). Poor weather may have left you weary and cold (Endure Harm). Or, you were attacked. If in doubt, roll on the Pay the Price table or Ask the Oracle for inspiration. Depending on what you envision, you can play to see what happens, or jump to the next day as you continue on your journey the worse for wear.
 
-### Undertake a Journey
+#### Undertake a Journey
 
 When you travel across hazardous or unfamiliar lands, first set the rank of your journey.
 
@@ -1090,11 +1090,11 @@ First, give your journey a rank. Decide how far—and how hazardous—it is base
 
 If the journey is mundane—a relatively short distance through safe territory, —don’t make this move. Just narrate the trip and jump to what happens or what you do when you arrive.
 
-#### Along for the Ride?
+##### Along for the Ride?
 
 If you are part of a caravan or party of NPCs, and aren’t an active participant in the planning or execution of the journey, you won’t make this move or track progress. The journey will be resolved in the fiction. You can Ask the Oracle to determine what happens en route or when you arrive.
 
-#### Allies and Journeys
+##### Allies and Journeys
 
 If you are traveling with allies, one of you makes the Undertake a Journey roll for each segment, and you share a progress track. The responsibility for leading the journey can switch from segment to segment as you like.
 
@@ -1102,7 +1102,7 @@ Your fellow travelers can assist by making the Aid Your Ally move. Perhaps they
 
 Only the character making the move takes the momentum bonus on a strong hit. But, because your supply track is shared, each of you mark -1 supply when the acting character makes that choice on a strong hit or when they suffer a weak hit.
 
-#### Waypoints
+##### Waypoints
 
 If you score a strong or weak hit on this move, you reach a waypoint. A waypoint is a feature of the landscape, a settlement, or a point-of-interest. Depending on the information you have or whether you have traveled this area before, a specific waypoint may be known to you. If it isn’t, envision what you find. If you need inspiration, Ask the Oracle.
 
@@ -1110,29 +1110,29 @@ Depending on the pace of your story and your current situation, you may choose t
 
 When you roll a match, take the opportunity to introduce something unexpected. This could be an encounter, a surprising or dramatic feature of the landscape, or a turn of events in your current quest.
 
-#### Marking Progress
+##### Marking Progress
 
 When you score a hit and reach a waypoint, you mark progress per the rank of the journey. For example, on a dangerous journey you mark 2 progress (filling two boxes on your progress track) for each waypoint. When you feel you have accumulated enough progress and are ready to make a final push towards your destination, make the Reach Your Destination move.
 
-#### Travel Time
+##### Travel Time
 
 Travel time can largely be abstracted. The time between waypoints might be hours or days, depending on the terrain and the distance. If it’s important, make a judgment call based on what you know of your journey, or Ask the Oracle.
 
-#### Mounts and Transport
+##### Mounts and Transport
 
 Horses, mules, and transport (such as boats) influence the fiction of your journey—the logistics of travel and how long it takes. They do not provide a mechanical benefit unless you have an asset which gives you a bonus (such as a Horse companion).
 
-#### Managing Resources
+##### Managing Resources
 
 You can intersperse Resupply or Make Camp moves during your journey to manage your health, spirit and supply, or to create new scenes as diversions. Don’t be concerned with using the Make Camp move as an automatic capstone to a day of travel. You can be assumed to rest and camp as appropriate without making the move, and you can roleplay out those scenes or gloss over them as you like. When you want the mechanical benefit of the Make Camp move, or you’re interested in playing the move out through the fiction, then do it.
 
-#### On a Miss...
+##### On a Miss...
 
 You do not mark progress on a miss. Instead, you encounter a new danger. You might face hazards through the weather, the terrain, encounters with creatures or people, attacks from your enemies, strange discoveries, or supernatural events. Decide what happens based on your current circumstances and surroundings, roll on the Pay the Price table, or Ask the Oracle for inspiration. Depending on your desired narrative pace, you can then play out the event to see what happens, or summarize and apply the consequences immediately.
 
 For example, you roll a miss and decide you encounter a broad, wild river which must be crossed to continue on your journey. If you want to focus on how you deal with the situation, play to see what happens by making moves. You might Secure an Advantage by exploring upriver for a ford and then Face Danger to cross. Or, if want to quickly push the story forward, you could fast-forward to a perilous outcome such as losing some provisions during the crossing (suffer -supply). Mix things up, especially on long journeys.
 
-### Reach Your Destination
+#### Reach Your Destination
 
 Progress Move
 
@@ -1157,11 +1157,11 @@ On a miss, something has gone horribly wrong. You realize you are off-course, yo
 
 If you are traveling with allies, one of you makes this move. Each of you benefit (or suffer) from the narrative outcome of the roll. Only the character making the move gets the mechanical benefit of a strong hit.
 
-## Relationship Moves
+### Relationship Moves
 
 Relationship moves are made as you interact with others in the world, fight duels, form bonds, support your allies, and determine the ultimate fate of your character.
 
-### Compel
+#### Compel
 
 When you attempt to persuade someone to do something, envision your approach and roll. If you...
 
@@ -1189,7 +1189,7 @@ On a miss, they are insulted, angered, inflexible, see through your lies, or dem
 
 Compel may also be used to bring combat to a non-violent conclusion. Your approach dictates the stat you use—typically +iron when you threaten with further violence, +heart when you attempt to surrender or reason with them, and +shadow when you use trickery. Your foe must have a reason to be open to your approach. If unsure, Ask the Oracle.
 
-### Sojourn
+#### Sojourn
 
 When you spend time in a community seeking assistance, roll +heart. If you share a bond, add +1.
 
@@ -1232,7 +1232,7 @@ You can also perform additional moves while in the community. If you need to Gat
 
 On a miss, something goes wrong. You are not welcomed. The citizens are hostile to you. Your dark mood alienates you. A perilous event threatens you all. Envision what happens based on your current circumstances, or Ask the Oracle.
 
-### Draw the Circle
+#### Draw the Circle
 
 When you challenge someone to a formal duel, or accept a challenge, roll +heart. If you share a bond with this community, add +1.
 
@@ -1258,7 +1258,7 @@ Duels are usually stopped when one of the duelists surrenders or is clearly defe
 
 Duels may also be to the death. If one of the combatants declares their intent to fight to the death, the other must agree or forfeit.
 
-### Forge a Bond
+#### Forge a Bond
 
 When you spend significant time with a person or community, stand together to face hardships, or make sacrifices for their cause, you can attempt to create a bond. When you do, roll +heart. If you make this move after you successfully Fulfill Your Vow to their benefit, you may reroll any dice.
 
@@ -1281,19 +1281,19 @@ On a weak hit, they ask more of you. It might be a task, an item, a concession, 
 
 On a miss, they have refused you. Why? The answer should introduce new complications or dangers.
 
-#### Bonds and the Fiction
+##### Bonds and the Fiction
 
 In the fiction of your world, bonds can be ceremonial. If your bond is with a person, perhaps you trade gifts. When you form a bond with a community, they may honor you in their own way. Envision what these ceremonies look like to add color and texture to the setting.
 
 Also, respect the narrative weight of a bond. Don’t declare a bond with everyone in sight to add more ticks to your bond progress track. Your bonds represent true, deep connections.
 
-#### Bonds And Allies
+##### Bonds And Allies
 
 If you and your allies act together to Forge a Bond with an NPC or community, only one of you makes the move. Others can Aid Your Ally to provide support. If you are successful, each of you may mark a tick on your bond progress track. Only the character making the move takes the mechanical benefits of a strong hit (+1 spirit or +2 momentum).
 
 Bonds can also be made between allies. One of you makes the move, and both of you may mark the bond on a hit. If you score a weak hit, your ally may decide what they ask of you. On a miss, something still stands between you. What is it? What must you do to form a deeper connection?
 
-### Test Your Bond
+#### Test Your Bond
 
 When your bond is tested through conflict, betrayal, or circumstance, roll +heart.
 
@@ -1312,7 +1312,7 @@ You should Test Your Bond within the community or in the company of the person 
 
 If you and your allies share a bond with an NPC or community, and you act together to Test Your Bond, only one of you makes this move.
 
-### Aid Your Ally
+#### Aid Your Ally
 
 When you Secure an Advantage in direct support of an ally, and score a hit, they (instead of you) can take the benefits of the move. If you are in combat and score a strong hit, you and your ally have initiative.
 
@@ -1330,7 +1330,7 @@ If multiple characters make this move to contribute to an ally action, all Secur
 
 Don’t ping pong this move back and forth between two characters in an attempt to build momentum. Envision what you are doing to Aid Your Ally, make the Secure an Advantage move, resolve it, and hand the reins over to your ally as they leverage the advantage. Keep it moving. Make things happen
 
-### Write Your Epilogue
+#### Write Your Epilogue
 
 Progress Move
 
@@ -1348,11 +1348,11 @@ This is a progress move. Tally the number of filled boxes on your bonds progress
 
 Based on the result of this move, envision how you spend the remainder of your days.
 
-## Combat Moves
+### Combat Moves
 
 When there are no other options, when the sword slips free of its sheath, when the arrow is nocked, when the shield is brought to bear, make these moves.
 
-### Enter the Fray
+#### Enter the Fray
 
 When you enter into combat, first set the rank of each of your foes.
 
@@ -1383,7 +1383,7 @@ If you are fighting with allies, each of you make your own move to Enter the Fra
 
 If you are fighting a group of troublesome or dangerous foes, you can combine them into a single progress track. This is called a pack. Managing your progress against a pack is easier than tracking them as individuals, and will make combat go a bit faster. For a small pack (about 3 to 5), increase the rank by one. For a large pack (about 6 to 10) increase the rank by two. If you are facing more than 10 troublesome or dangerous foes, group them into smaller packs and associated progress tracks as appropriate.  
 
-### Strike
+#### Strike
 
 When you have initiative and attack in close quarters, roll +iron When you have initiative and attack at range, roll +edge.
 
@@ -1405,7 +1405,7 @@ On a weak hit, you’ve done some damage but have overextended or your foe count
 
 On a miss, you must Pay the Price. Your opponent strikes back and you Endure Harm. You lose position or advantage and suffer -momentum. You face a new or intensified danger. A companion or ally is put in harm’s way. Your weapon is dropped or broken. Let the outcome flow out of the fiction, or roll on the Pay the Price table to see what happens.
 
-### Clash
+#### Clash
 
 When your foe has initiative and you fight with them in close quarters, roll +iron. When you exchange a volley at range, or shoot at an advancing foe, roll +edge.
 
@@ -1432,7 +1432,7 @@ If you aren’t actively fighting back—you’re just trying to avoid the attac
 
 If you ever respond to an attack by just taking the hit, that’s not a move. The outcome isn’t in much doubt. Pay the Price.  
 
-### Turn the Tide
+#### Turn the Tide
 
 Once per fight, when you risk it all, you may steal initiative from your foe to make a move (not a progress move). When you do, add +1 and take +1 momentum on a hit.
 
@@ -1446,7 +1446,7 @@ Here’s the catch: If you score a miss when you make your move, you should add 
 
 Narratively, this is a dramatic moment. Focus on it. Envision your character’s action. You struggle to your feet and raise your sword, your eyes hardening with determination. You spur your mount into a desperate charge. You grab your opponent’s blade in your bare hand. You pull the dagger from your boot and lunge. Or, perhaps you state your name, lament the killing of your father, and tell your foe to prepare for death.  
 
-### End the Fight
+#### End the Fight
 
 Progress Move
 
@@ -1481,7 +1481,7 @@ On a miss, you should face a dramatic and dire consequence. Are you captured? Mo
 
 When you and your allies are fighting against a common foe, you share a progress track. Any of you may attempt to End the Fight. If you then score a weak hit or miss, consider how your choice impacts the group and who suffers the cost as appropriate to the situation.
 
-### Battle
+#### Battle
 
 When you fight a battle, and it happens in a blur, envision your objective and roll. If you primarily…
 
@@ -1509,17 +1509,17 @@ A miss on the Battle move should have dire ramifications on your character and y
 
 Use the Battle move as you like. If your story doesn’t emphasize fighting, or you’d rather generally abstract combat encounters, you can use this move exclusively. You can also drop it into some portion of a larger scene. Perhaps you Battle to quickly deal with lesser foes, then handle the fight against their leader with standard combat moves. The mix of Battle moves and more detailed fight scenes can help you pace your gaming sessions and let you focus on what is interesting or important.
 
-#### Battling Alongside Allies
+##### Battling Alongside Allies
 
 When you and your allies fight together, only one of you makes the move. Others can make the Aid Your Ally move, using stats as detailed in Battle.  Resolve those moves first, and then Battle.
 
 On a strong hit, all of you benefit from the narrative success, but only the character making the move gains the momentum bonus. On a weak hit or miss, all of you suffer an outcome as appropriate to the situation. When in doubt, Ask the Oracle.
 
-### Other Moves in Combat
+#### Other Moves in Combat
 
 You won’t rely solely on combat moves in a fight. Make other moves as appropriate to the situation, your intent, and the actions of your foes.
 
-#### Face Danger
+##### Face Danger
 
 Make this move when you seek to avoid or overcome an obstacle in combat, or when you choose to focus on defense.
 
@@ -1537,7 +1537,7 @@ Face Danger might also be used to flee combat altogether. If you have a path an
 
 Finally, in cases where an enemy represents a minor obstacle, Face Danger can be used to avoid combat or as a means of resolving your action against a mundane foe. For example, you can Face Danger to sneak past an enemy or run away from a potential fight. If you are dealing with a minor foe from a position of clear advantage, such as firing an arrow from hiding, you can Face Danger to see what happens. In either case, a miss on this move might force you to Enter the Fray.
 
-#### Secure an Advantage
+##### Secure an Advantage
 
 This move is made in combat when you try to gain some leverage, improve your position, or setup another move. For example:
 
@@ -1549,7 +1549,7 @@ Secure an Advantage can be used whenever you have initiative, or as a means of 
 
 When you want to Secure an Advantage, picture the situation. Consider the terrain, your weapons, your position, and your fighting style and approach. Consider your enemy, and their tactics and readiness. Where is there an opportunity? Envision your action, then make the move.
 
-#### Compel
+##### Compel
 
 Compel can be used as a shortcut to ending a combat. You don’t have to make the End the Fight move to surrender or negotiate a truce. End the Fight is the outcome of a desperate, probably bloody, skirmish. If you or your foe have other objectives, give Compel a try.
 
@@ -1561,25 +1561,25 @@ Compel needs to be supported by the fiction. What is your foe’s intent? How d
 
 Compel might be used proactively (when you have initiative) or reactively (when your foe has it) depending on the circumstances. Offering to surrender is a reactive response, and can be done when you don’t have initiative. Attempting to Compel your foe to give up the fight is a proactive move made when you are in control.
 
-#### Aid Your Ally
+##### Aid Your Ally
 
 This move is an obvious choice when you want to bolster your ally’s actions. Envision what you do to help them, make the Secure an Advantage move, and let them take the benefits of the outcome.
 
 You should have initiative before you attempt to Aid Your Ally. On a strong hit, both of you then take or retain initiative. This is a huge advantage for your ally if they were having a difficult time making progress against their foe. On a weak hit or miss, you both lose initiative.
 
-#### Suffer Moves
+##### Suffer Moves
 
 Make Suffer moves as appropriate when you face the outcome of your actions within a combat scene.
 
 If you make a suffer move and score a strong hit, you may take or retain initiative—even if you scored a weak hit or miss on the preceding move. However, this opportunity does not overrule the fiction of the moment. If you are out of action and Face Death, you aren’t likely to come springing back into the fight. If you do score a strong hit on a suffer move, consider what happens next and the moves you may make in the context of the situation.
 
-#### Pay the Price
+##### Pay the Price
 
 Being forced to make the Endure Harm move is the obvious result when you must Pay the Price in a fight, but there’s much more that can happen in a dynamic combat situation. You lose your footing. You drop your weapon. Your shield is shattered. A goal is lost to you. A companion or ally is injured. You are put in a perilous position. A new threat reveals itself.
 
 Mix it up. Make combat exciting and cinematic. Whatever happens, make the outcome one you wish you had avoided. If in doubt, roll on the Pay the Price table or Ask the Oracle.
 
-#### Ask the Oracle
+##### Ask the Oracle
 
 In solo and co-op play, you can Ask the Oracle about your foe’s objectives, tactics, and specific actions. The oracle can also help determine the outcome of events or introduce new twists.
 
@@ -1591,7 +1591,7 @@ Be mindful of your surroundings and other characters. Ask questions. “Can I ta
 
 In guided play, the GM is your oracle. When you have questions about what happens next, look to them, or talk it out at the table. Your GM is free to use the Ask the Oracle move to answer questions.
 
-## Suffer Moves
+### Suffer Moves
 
 These moves are made as a result of a perilous event or bad outcome on other moves. They represent what happens to you, and how you hold up against the trauma.
 
@@ -1605,7 +1605,7 @@ These moves are made as a result of a perilous event or bad outcome on other mov
 
 Making a suffer move is not, however, the only possible outcome of a failure. You might face story complications or new dangers. You might lose an item. Your relationship with another character might be tested. Keep it fresh and interesting. When in doubt, Ask the Oracle.
 
-### Endure Harm
+#### Endure Harm
 
 When you face physical damage, suffer -health equal to your foe’s rank or as appropriate to the situation. If your health is 0, suffer -momentum equal to any remaining -health.
 
@@ -1650,7 +1650,7 @@ When you score a miss, you need to make an important decision. Do you risk the p
 
 If you score a miss and your debilities are already marked, you have no choice. Roll the dice and hope for the best.
 
-### Face Death
+#### Face Death
 
 When you are brought to the brink of death, and glimpse the world beyond, roll +heart.
 
@@ -1671,7 +1671,7 @@ There is also the personage of death to consider. Does death take form, or is it
 
 On a miss, you are dead. Envision what awaits you. You may begin again with a new character, or explore your current world and storyline from a new perspective. Perhaps your kin will avenge you?  
 
-### Companion Endure Harm
+#### Companion Endure Harm
 
 When your companion faces physical damage, they suffer -health equal to the amount of harm inflicted. If your companion’s health is 0, exchange any leftover -health for -momentum.
 
@@ -1697,7 +1697,7 @@ If your companion is killed, give yourself 1 experience point for each marked ab
 
 You should also Endure Stress and suffer -spirit as appropriate to the fiction when your companion is wounded or dies.
 
-### Endure Stress
+#### Endure Stress
 
 When you face mental shock or despair, suffer -spirit equal to your foe’s rank or as appropriate to the situation. If your spirit is 0, suffer -momentum equal to any remaining -spirit.
 
@@ -1747,7 +1747,7 @@ As with the Endure Harm move, when you score a miss you need to make an importa
 
 If you’ve scored a miss and your debilities are both marked, you must roll on the table to determine your fate.  
 
-### Face Desolation
+#### Face Desolation
 
 When you are brought to the brink of desolation, roll +heart.
 
@@ -1766,7 +1766,7 @@ Choosing the option to become tormented on a weak hit creates interesting story 
 
 On a miss, you are broken. There is no recovery possible. This is the end of your character’s story.
 
-### Out of Supply
+#### Out of Supply
 
 When your supply is exhausted (reduced to 0), mark unprepared. If you suffer additional -supply while unprepared, you must exchange each additional -supply for any combination of -health, -spirit or -momentum as appropriate to the circumstances.
 
@@ -1774,7 +1774,7 @@ When you and your allies reduce your supply to 0 (through a choice or result of 
 
 While you are unprepared, you cannot increase your supply track. If you suffer additional -supply while unprepared, you and your allies must exchange each -supply for some combination of -momentum, -health, or -spirit. Select an option appropriate to the situation. A lack of provisions can have an obvious impact on your fitness, morale, and readiness for challenges.  
 
-### Face a Setback
+#### Face a Setback
 
 When your momentum is at its minimum (-6), and you suffer additional -momentum, choose one.
 
@@ -1785,11 +1785,11 @@ When you suffer -momentum while your momentum track is already at its lowest pos
 
 If your health, spirit, and supply are all at 0, you have no choice. You must clear progress on a related progress track. You should use the quest, journey, or fight which is most relevant to the current situation.
 
-## Quest Moves
+### Quest Moves
 
 Making and fulfilling vows is central to your character’s motivations. These oaths drive your story and give you the means to gain experience and acquire new abilities. When you embark upon a quest, manage your progress on a quest, seek to complete a quest, or gain the rewards of a quest, make these moves.
 
-### Swear an Iron Vow
+#### Swear an Iron Vow
 
 When you swear upon iron to complete a quest, write your vow and give the quest a rank. Then, roll +heart. If you make this vow to a person or community with whom you share a bond, add +1.
 
@@ -1818,7 +1818,7 @@ You also have the option, on a miss, to come to the realization that your vow wa
 
 When allies join together to Swear an Iron Vow, one of you speaks for the group and makes the move. The others can commit to the cause with the Aid Your Ally move. If you score a hit and take +momentum, or score a miss and choose to suffer -momentum, only the character making the move adjusts their momentum track. Once your quest is underway, you share a progress track and mark progress together.
 
-### Reach a Milestone
+#### Reach a Milestone
 
 When you make significant progress in your quest by overcoming a critical obstacle, completing a perilous journey, solving a complex mystery, defeating a powerful threat, gaining vital support, or acquiring a crucial item, you may mark progress.
 
@@ -1836,7 +1836,7 @@ How you define milestones determines the pace of your game. You need to overcome
 
 Not sure if something is worthy as a milestone? If you’re playing co-op or guided, talk it out at the table. If you’re playing solo, trust your instincts and the type of play experience you want to create. In the end, it’s your game.  
 
-### Fulfill Your Vow
+#### Fulfill Your Vow
 
 Progress Move
 
@@ -1865,7 +1865,7 @@ On a weak hit, you discover or realize something which leaves your quest unfinis
 
 On a miss, a turn of events finds you defeated or your true goal is suddenly beyond reach. The band of raiders were a diversion, and a more dangerous force has stolen away with the winter stores. The crown of kings is found, but it is a forgery. You’ve hunted and defeated the wyvern, but discover it was only one of a large flock of beasts. If you choose to press on, the nature of your quest remains the same—protect the village, find the crown, stop the ravages of the wyverns—but most of your progress is undone through this dramatic realization.  
 
-### Forsake Your Vow
+#### Forsake Your Vow
 
 When you renounce your quest, betray your promise, or the goal is lost to you, clear the vow and Endure Stress. You suffer -spirit equal to the rank of your quest (troublesome=1; dangerous=2; formidable=3; extreme=4; epic=5).
 
@@ -1877,7 +1877,7 @@ Mechanically, you Endure Stress, reducing your spirit track by an amount equal t
 
 If you have abandoned a quest which is central to your character’s motivations, you may decide your life as an Ironsworn is done. If so, Write Your Epilogue to determine your fate.
 
-### Advance
+#### Advance
 
 When you focus on your skills, receive training, find inspiration, earn a reward, or gain a companion, you may spend 3 experience to add a new asset, or 2 experience to upgrade an asset.
 
@@ -1885,7 +1885,7 @@ Make this move when you spend experience to add an asset or upgrade an existing 
 
 Narratively, you should consider how your recent experiences and fulfilled vows have led to these new abilities. Was your horse a reward from the thankful chief of a highland clan? Did you train under a powerful mystic? Has your time spent trekking across the wilds made you adept at woodcraft or navigation? Let your choice of assets flow naturally from the fiction.
 
-## Fate Moves
+### Fate Moves
 
 
 In solo and co-op play, the fate moves mediate the result of other moves or serve as inspirational prompts for your story. When you face the outcome of a move, want to know what happens next, or have a question about people, places and events external to your character, the fate moves help you discover an answer.
@@ -1898,7 +1898,7 @@ There are three key aspects of using the fate moves:
 * Randomness: You can roll on random tables to generate a result or answer a question.
 * Inspiration: You can use creative prompts, such as those included in the oracles chapter to guide your story.
 
-### Pay the Price
+#### Pay the Price
 
 When you suffer the outcome of a move, choose one.
 
@@ -1947,11 +1947,11 @@ The narrative and mechanical costs you endure should be appropriate to the circu
 
 Once you’ve resolved the outcome, envision what happens next and how you react. You are not in control. The situation is more complex and dangerous. You may need to respond with another move to restore your advantage and avoid further cost.
 
-#### Rolling Matches
+##### Rolling Matches
 
 If you rolled a match on a move, and the outcome of that move tells you to Pay the Price, you can consider rolling on the table instead of just choosing an outcome. This fulfills the promise of the match by introducing a result you might otherwise not have considered. When in doubt about what a result on the table might represent (for example, “a new danger or foe is revealed”), you can Ask the Oracle. However, rolling a match on the Pay the Price table itself doesn’t have any special significance.
 
-### Ask the Oracle
+#### Ask the Oracle
 
 When you seek to resolve questions, discover details in the world, determine how other characters respond, or trigger encounters or events, you may…
 
@@ -1972,7 +1972,7 @@ On a match, an extreme result or twist has occurred.
 
 In solo or co-op play, use this move when you have a question or want to reveal details about your world. In guided play, the GM may use this move to answer their own questions or inspire the story of your game session.
 
-#### Draw a Conclusion
+##### Draw a Conclusion
 
 The most basic use of this move is to simply decide the answer. Think it over for a moment (or talk it out with others at your table), and go with what seems most appropriate to the current situation and introduces the most potential for drama and excitement.
 
@@ -1980,7 +1980,7 @@ Your first instinct is often the right one. If it leapt to mind, it’s probably
 
 If you’re still not sure of the answer, or want to put things in the hand of fate, you have some other options...
 
-#### Ask a Yes/NO question
+##### Ask a Yes/NO question
 
 * You can ask a binary yes/no question and leave the answer open to fate.
 * “Is this steading inhabited?”
@@ -1991,7 +1991,7 @@ If you’re still not sure of the answer, or want to put things in the hand of f
 
 Decide the likeliness of a ‘yes’ answer, and roll your oracle dice to get the result. For example, if you rate the chance of a ‘yes’ as ‘unlikely’, you must roll 76-100 for a yes. Otherwise, the answer is no.
 
-#### Pick Two
+##### Pick Two
 
 The next option is to ask a question and pick two viable results.
 
@@ -2003,7 +2003,7 @@ The next option is to ask a question and pick two viable results.
 
 You rate one of those as ‘likely’, and roll on the table. If it’s a ‘yes’, the answer is your likely pick. If not, it’s the other. Use this approach when the answer is more open-ended, but you have a couple of options in mind.
 
-#### Spark an Idea
+##### Spark an Idea
 
 The final option is to seek inspiration through an open-ended question.
 
@@ -2017,31 +2017,31 @@ If you’re in a game with other players, you can talk it out. Brainstorming tog
 
 You can also use random generators to help inspire an answer. See chapter 6 for creative prompts and random results. Or, use your preferred tools, such as an online generator for interesting names, or a set of tarot cards or rune stones for visual inspiration. When asking an open-ended question, use tools which offer a spark of inspiration instead of a definitive response. Your creative mind will lead you naturally from an abstract concept to a relevant answer, adding exciting and surprising dimension to your story.
 
-#### Questions Upon Questions
+##### Questions Upon Questions
 
 You can come back to the yes/no table and ask a follow-up question to clarify or affirm a result. However, you should avoid leaning too heavily on asking questions (or this move in general). Don’t let one question snowball into a series of more specific questions. Even when playing solo, oracles should be the spice of your game, not the main course. Ask a question or two, decide what it means, and move on. When in doubt, follow your gut. Your first instinct is probably the right one. Go with it.
 
-#### Rolling A Match
+##### Rolling A Match
 
 A match on your oracle dice when rolling on the yes/no table should trigger an extreme result or narrative twist. This can mean an all-caps “HELL YES!” or “HELL NO!”, or a yes or no but with an interesting or dramatic complication.
 
 When you’re unsure what a match might mean, you can roll on another oracle table for inspiration. If you’re still left scratching your head, just move on. Resolving a match is not a requirement. It’s just a way to introduce narrative turning points that lead you along unexpected paths. Head down the rabbit hole, but don’t get stuck in it.
 
-#### Oracles and Guided Play
+##### Oracles and Guided Play
 
 In guided play, your GM is the oracle. You won’t make this move unless you are talking things out and need a random result or a bit of inspiration. Your GM can use this move (or ask you to make it) to help guide the story.
 
-# PART FOUR: FOES AND ENCOUNTERS
+## PART FOUR: FOES AND ENCOUNTERS
 
 An NPC (non-player character/creature) is anyone who inhabits your setting other than your character and those portrayed by your fellow players. They can be a person, being or creature. You will roleplay your interactions with NPCs, and make moves when you attempt to influence them, aid them, gain their help, or act against them.
 
-## Components of an NPC
+### Components of an NPC
 
 Because gameplay in Ironsworn is centered on the abilities and actions of your character, NPCs are primarily represented through your fiction rather than mechanics. They don’t have stats, assets, or tracks. Instead, the sample NPCs in this chapter include some broad details to help guide their actions and the threat they pose in combat.
 
 When you interact with an NPC, envision their personality and motivations. A brutish character leverages their strength, or attempts to bully and intimidate. A sly character acts through manipulation or trickery. A noble character behaves according to her sense of honor. An animal, depending on its disposition, may attack when threatened or may run away. A supernatural being may act with mindless malice and hate for the living, or may have more complex needs. When you are unsure of an NPC’s traits or next action, Ask the Oracle. Then, envision what they do and make moves to aid or oppose them as appropriate.
 
-### Rank
+#### Rank
 
 NPCs have a single mechanical attribute, their rank. From this, their ability to resist and inflict harm in combat is derived, as follows:
 
@@ -2063,23 +2063,23 @@ Use the End the Fight move, adding your progress against this foe, when you att
 
 The ranks for the sample NPCs represent a typical individual of that type. For unusually powerful NPCs, increase their rank by one (to a maximum of epic). For less powerful foes, decrease their rank by one (to a minimum of troublesome). You can also adjust the rank of a foe when circumstances give you significant narrative disadvantage or advantage before the fight.
 
-### Features
+#### Features
 
 These are the typical characteristics of appearance and personality for an NPC. They are not universally true, especially within diverse societies, but can provide some common impressions as a starting point.
 
-### Drives
+#### Drives
 
 Drives reflect the motivations and instincts of an NPC. For creatures, these are relatively simple: Hunt, eat, defend territory. For intelligent beings, drives are the typical goals and beliefs of their society, but do not represent the complex range of motivations you will encounter. Drives are a starting place, giving you the rough outline of a typical NPC to be fleshed out (or contradicted) appropriate to their role in the fiction.
 
 NPCs who are prominent in your campaign will have more detail. Depending on their role in your story, their drives may support—or conflict with—your own goals. As you discover details about an important NPC, make note of it. Look for opportunities to introduce interesting and surprising backstories and motivations for these characters.
 
-### Tactics
+#### Tactics
 
 Tactics provide a reference for how an NPC might act in combat. These give you a sense of typical maneuvers, but do not represent the possibilities of a complex and dramatic combat scene. You should let NPC actions flow out of the fiction. What is the situation? What is their goal? What will add to the excitement and danger of this moment? Make it happen. When in doubt, Ask the Oracle.
 
 Your foes should do more than simply try to inflict harm. A fearsome roar or demoralizing boast might cause you to Endure Stress. Tactical maneuvers reduce your momentum. Fictional complications—the appearance of new foes, putting companions or allies at risk, or a realization that undermines your quest—will heighten the drama of the scene.
 
-## NPC Packs
+### NPC Packs
 
 When you fight a group of troublesome or dangerous foes, you may combine them into a single progress track. This is called a pack. It’s more convenient than tracking progress for each individual foe, and the scene will move faster.
 
@@ -2089,7 +2089,7 @@ When you inflict harm on the pack, you can envision it as appropriate to the fic
 
 Formidable, extreme, and epic foes may not be grouped into a pack. Each must have its own progress track.
 
-## Joining Forces with NPCs
+### Joining Forces with NPCs
 
 If your story leads you to cooperating with helper NPCs to overcome challenges, you need to consider how they impact the fiction and your moves. NPCs—unless they are a companion asset—won’t give you mechanical bonuses on your moves. They also won’t make moves of their own. They are simply a part of your story, perhaps impacting the moves you make, the results of those moves, and the rank of your challenges. Gaining the aid of an important NPC might also allow you to Reach a Milestone.
 
@@ -2104,7 +2104,7 @@ As with any NPC, you can Ask the Oracle to see how a helper NPC responds, how t
 
 In short, make them characters, not numbers. Give them personalities. Give them quirks and motivations. Let them impact your story and your quests, for better or worse, but always keep the focus on your character and your allies.
 
-## Creating NPCs
+### Creating NPCs
 
 You should create NPCs that fit your version of the setting, enhance your story, and enrich your character’s adventures. Because NPCs don’t have mechanical detail, it’s easy to bring them to life without advance preparation.
 
@@ -2112,7 +2112,7 @@ If you face an NPC in combat, give them a rank. If you like, you can also make n
 
 For reoccurring NPCs, make note of what you learn of them over time. If you share a bond, mark it down.
 
-## Sample NPC
+### Sample NPC
 
 > ### Wyvern
 >
@@ -2139,7 +2139,7 @@ For reoccurring NPCs, make note of what you learn of them over time. If you shar
 > * Fearsome roar
 > * Bash with tail
 
-# PART FIVE: ORACLES
+## PART FIVE: ORACLES
 
 In Ironsworn, an oracle is anything which generates random results to help determine the outcome of a move, a detail in your world, an NPC action, or a narrative event.
 
@@ -2149,21 +2149,21 @@ Rolling a match on a move can also trigger opportunities to introduce narrative 
 
 This chapter includes a series of random prompts in the form of tables. You can use these oracle tables to answer questions about your world, drive the narrative, and inspire dramatic events and revelations. Some oracles are for specific, mundane questions to streamline play (“What is the healer’s name?”). Others provide more abstract results which you interpret based on the current situation (“What happens next?”).
 
-## Using the Oracles
+### Using the Oracles
 
-### Oracles In Solo and Co-Op Play
+#### Oracles In Solo and Co-Op Play
 
 Ironsworn oracles don’t function as a GM simulator. Instead, they leverage the power of your creative interpretation. Ask your question, roll on a table, and consider the answer in the context of your current situation and story. What comes to mind first? Did you think of something which reinforces a dramatic narrative or takes things in an interesting and surprising direction? Does it feel right? If so, make it happen.
 
 If you follow your instincts while staying open to twists and turns, you will find your game offering many of the same narrative rewards as if you were playing with a GM. In fact, you’ll be surprised how often a seemingly random result seems to feed directly into your character’s story and the world you’ve established through play. This is the power of creative interpretation at work.
 
-### Oracles In Guided Play
+#### Oracles In Guided Play
 
 GM’s can use oracles for support during play and to supplement their narrative decision-making. Mundane oracles, such as names, are helpful to quickly flesh out details. Interpretative oracles, such as the Action and Theme tables, can be used to spark new ideas.
 
 You can also use oracles as a prompt for sharing control of the narrative with your players. Not sure what happens next? Not sure how to answer a character’s question? Roll on an appropriate table, or have a player make the roll, and talk it out with everyone at the table.
 
-### How to Use an Oracle
+#### How to Use an Oracle
 
 1. Roll your oracle dice to generate a number from 1-100.
 2. Check your roll against the table. The oracle will reveal its answer.
@@ -2172,17 +2172,17 @@ You can also use oracles as a prompt for sharing control of the narrative with y
 5. If you’ve got your answer, you’re all set! Play to see what happens. If you want further detail, you can talk it out with other players or roll on another oracle table.
 6. If you’re having trouble, you can roll again, try a different table, or just fall back to your instincts and decide what happens next.
 
-#### When Answers lead to more questions
+##### When Answers lead to more questions
 
 You aren’t limited to a single roll on a single oracle table when asking a question. If you like, you can let the result from one table inform your interpretation of the result on another. You can even refer back to the Ask the Oracle table to clarify an answer with a yes/no question.
 
 However, use caution with this technique. Too many questions and too many rolls makes your session feel like an exercise in randomness. Lead with your instincts. Leverage the oracles to fill in the gaps. Keep it moving.
 
-#### Oracle Tables and Matches
+##### Oracle Tables and Matches
 
 Matches don’t have special significance when rolling on these oracle tables. They can be ignored.
 
-## Action Oracle
+### Action Oracle
 
 Use this table to inspire a discovery, event, character goal, or situation. A roll on this table can be combined with a Theme (see below) to provide an action and a subject. Then, interpret the result based on the context of the question and your current situation.
 
@@ -2586,7 +2586,7 @@ Fortify
 
 Summon
 
-## Theme Oracle
+### Theme Oracle
 
 As with the Action oracle, this is an interpretative table which you can use to answer questions or generate new situations. Combined, the Action and Theme tables provide creative prompts suitable for most situations and questions.
 
@@ -2990,7 +2990,7 @@ Mysticism
 
 Supply
 
-## Combat Action Oracle
+### Combat Action Oracle
 
 Use this oracle to help inspire an action for an NPC in combat. When you’re not sure what your foe does next, particularly when they have initiative, roll on this table and interpret the result as appropriate to your foe and the situation.
 
@@ -3015,7 +3015,7 @@ Use this oracle to help inspire an action for an NPC in combat. When you’re no
 90-99 | Attack with power.
    00 | Take a completely unexpected action.
 
-## Major Plot Twist Oracle
+### Major Plot Twist Oracle
 
 Use this oracle to introduce a narrative surprise or revelation. Most of these results have a negative implication, and can be used to resolve a match at a crucial moment in your story. In particular, this is an effective tool to leverage when you make a move with matched 10’s on the challenge dice.
 
@@ -3042,7 +3042,7 @@ Use this oracle to introduce a narrative surprise or revelation. Most of these r
 91-95 | Unexpected powers or abilities are revealed.
 96-00 | Roll twice more on this table. Both results occur. If they are the same result, make it more dramatic.
 
-## Challenge Rank Oracle
+### Challenge Rank Oracle
 
 Use this oracle when you want to randomly determine the challenge rank of a quest, journey, or fight.
 
