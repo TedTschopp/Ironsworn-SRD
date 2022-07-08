@@ -1,4 +1,6 @@
-# [Ironsworn: System Reference Document](Ironsworn-SRD.html)
+# Ironsworn: System Reference Document
+
+[Ironsworn: System Reference Document](Ironsworn-SRD.html)
 
 ***Version .08 |  Updated 09/16/18***
 
