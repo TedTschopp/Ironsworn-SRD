@@ -46,9 +46,7 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ##### Image Source Files
 
-The vector source files (Adobe Illustrator format) for the illustrations and icons in this document are available for download here:
-
-[Google Drive](https://www.google.com/url?q=https://drive.google.com/open?id%3D17wvH_EY2MfX9rToRFyONp1uNFnkHawZ1&sa=D&source=editors&ust=1656108464819956&usg=AOvVaw0GEVIzmM-FPAAvyRDxrMCk)
+The vector source files (Adobe Illustrator format) for the illustrations and icons in this document are available for download here: [Google Drive](https://www.google.com/url?q=https://drive.google.com/open?id%3D17wvH_EY2MfX9rToRFyONp1uNFnkHawZ1&sa=D&source=editors&ust=1656108464819956&usg=AOvVaw0GEVIzmM-FPAAvyRDxrMCk)
 
 ##### How to Provide Credit
 
@@ -175,7 +173,7 @@ You can also let the intensity of your success or failure frame how you interpre
 
 If you are playing as a GM, you can focus on guiding the game and responding to your player’s questions and actions. Since NPCs don’t make moves, you won’t need to make action rolls. However, you might want to have a pair of D10’s available for oracle rolls.
 
-### Momentum
+### The Momentum Mechanic
 
 Momentum is a special mechanic which is central to playing Ironsworn. Your momentum value ranges from a -6 to +10 and represents how you are faring in your quests. Move results may tell you to increase or decrease momentum.
 
@@ -266,7 +264,7 @@ When you engage in a fight, initiate a journey, or swear a vow, you give your ch
 
 You will perform specific moves to advance toward your goal. For example, as you travel across perilous lands, you Undertake a Journey and mark progress as you successfully reach waypoints in your travel.
 
-Similarly, when you fight, you Strike or Clash to inflict harm on your foe. To move forward in your quest, you use the Reach a Milestone move. These incremental moves let you amass advantages to have the best chance of success when you are ready to resolve your challenge.
+Similarly, when you fight, you Strike or Clash to inflict harm on your foe. To move forward in your quest, you use the *Reach a Milestone* move. These incremental moves let you amass advantages to have the best chance of success when you are ready to resolve your challenge.
 
 Whenever you successfully move toward your goal, you partially or fully fill in a box on your progress track. You fill progress boxes with lines—called ticks. A full progress box consists of four ticks in a star-shaped pattern. When a move tells you to mark progress, fill in the appropriate number of ticks or progress boxes based on the rank of your challenge.
 
@@ -519,13 +517,13 @@ To start, set your current momentum to +2, your max momentum to +10, and your mo
 
 ### Vows
 
-When you Swear an Iron Vow, you give it a rank (troublesome, dangerous, formidable, extreme, or epic), and mark it on your character sheet. You then use a vow progress track to mark when you Reach a Milestone.
+When you Swear an Iron Vow, you give it a rank (troublesome, dangerous, formidable, extreme, or epic), and mark it on your character sheet. You then use a vow progress track to mark when you *Reach a Milestone*.
 
 You should start your first session with two vows: A long term goal (your background vow) and an immediate situation which must be dealt with (your inciting incident).
 
-### Bonds
+### Bonds and Relationships
 
-As you build relationships and undertake and complete quests in the service of others, you create bonds by making the Forge a Bond move.
+As you build relationships and undertake and complete quests in the service of others, you create bonds by making the *Forge a Bond* move.
 
 Bonds provide narrative texture to your world by fleshing out other characters and communities. They give you places to return to, and people to reconnect with, when your life as Ironsworn has taken its toll. Bonds also provide mechanical benefits when you act within a community or interact with someone with whom you share a bond. For example, the Sojourn move gives you a bonus to your action roll if you have a bond with that community.
 
@@ -584,7 +582,7 @@ When you are cursed or tormented, you should consider the physical or emotional 
 
 When you create your character, all debilities should be unmarked.
 
-### Assets
+### Assets, Backgrounds, Skills, and Traits
 
 Assets represent your background, skills, and traits. They give you additional options and bonuses when making a move—or sometimes act as their own self-contained moves.
 
@@ -702,7 +700,7 @@ Per the Advance move, you may:
 
 To start, your experience is unmarked.
 
-### Equipment
+### Equipment You Carry
 
 Make note of any important equipment or items you start with. These are things that might impact the narrative and the moves you make, or provide texture to your character’s background. They don’t offer mechanical bonuses unless they are represented by an asset, such as a weapon used in a combat talent.
 
@@ -927,7 +925,7 @@ This is the move trigger. When you do this thing, or encounter this situation, m
 
 Adventure moves are used as you travel across perilous, investigate situations, and deal with threats.  
 
-#### Face Danger
+#### Face Danger: Adventure Move
 
 When you attempt something risky or react to an imminent threat, envision your action and roll. If you act...
 
@@ -956,7 +954,7 @@ A weak hit means you overcome the obstacle or avoid the threat, but not without 
 
 A miss means you are thwarted in your action, fail to oppose the threat, or make some progress but at great cost. You must Pay the Price.  
 
-#### Secure an Advantage
+#### Secure an Advantage : Adventure Move
 
 When you assess a situation, make preparations, or attempt to gain leverage, envision your action and roll. If you act...
 
@@ -1161,7 +1159,7 @@ If you are traveling with allies, one of you makes this move. Each of you benefi
 
 Relationship moves are made as you interact with others in the world, fight duels, form bonds, support your allies, and determine the ultimate fate of your character.
 
-#### Compel
+#### Compel : Relationship Move
 
 When you attempt to persuade someone to do something, envision your approach and roll. If you...
 
@@ -1519,7 +1517,7 @@ On a strong hit, all of you benefit from the narrative success, but only the cha
 
 You won’t rely solely on combat moves in a fight. Make other moves as appropriate to the situation, your intent, and the actions of your foes.
 
-##### Face Danger
+##### Face Danger : Combat Move
 
 Make this move when you seek to avoid or overcome an obstacle in combat, or when you choose to focus on defense.
 
@@ -1537,7 +1535,7 @@ Face Danger might also be used to flee combat altogether. If you have a path an
 
 Finally, in cases where an enemy represents a minor obstacle, Face Danger can be used to avoid combat or as a means of resolving your action against a mundane foe. For example, you can Face Danger to sneak past an enemy or run away from a potential fight. If you are dealing with a minor foe from a position of clear advantage, such as firing an arrow from hiding, you can Face Danger to see what happens. In either case, a miss on this move might force you to Enter the Fray.
 
-##### Secure an Advantage
+##### Secure an Advantage : Combat Move
 
 This move is made in combat when you try to gain some leverage, improve your position, or setup another move. For example:
 
@@ -1549,7 +1547,7 @@ Secure an Advantage can be used whenever you have initiative, or as a means of 
 
 When you want to Secure an Advantage, picture the situation. Consider the terrain, your weapons, your position, and your fighting style and approach. Consider your enemy, and their tactics and readiness. Where is there an opportunity? Envision your action, then make the move.
 
-##### Compel
+##### Compel : Combat Move
 
 Compel can be used as a shortcut to ending a combat. You don’t have to make the End the Fight move to surrender or negotiate a truce. End the Fight is the outcome of a desperate, probably bloody, skirmish. If you or your foe have other objectives, give Compel a try.
 
@@ -1561,25 +1559,25 @@ Compel needs to be supported by the fiction. What is your foe’s intent? How d
 
 Compel might be used proactively (when you have initiative) or reactively (when your foe has it) depending on the circumstances. Offering to surrender is a reactive response, and can be done when you don’t have initiative. Attempting to Compel your foe to give up the fight is a proactive move made when you are in control.
 
-##### Aid Your Ally
+##### Aid Your Ally : Combat Move
 
 This move is an obvious choice when you want to bolster your ally’s actions. Envision what you do to help them, make the Secure an Advantage move, and let them take the benefits of the outcome.
 
 You should have initiative before you attempt to Aid Your Ally. On a strong hit, both of you then take or retain initiative. This is a huge advantage for your ally if they were having a difficult time making progress against their foe. On a weak hit or miss, you both lose initiative.
 
-##### Suffer Moves
+##### Suffer Moves : Combat Move
 
 Make Suffer moves as appropriate when you face the outcome of your actions within a combat scene.
 
 If you make a suffer move and score a strong hit, you may take or retain initiative—even if you scored a weak hit or miss on the preceding move. However, this opportunity does not overrule the fiction of the moment. If you are out of action and Face Death, you aren’t likely to come springing back into the fight. If you do score a strong hit on a suffer move, consider what happens next and the moves you may make in the context of the situation.
 
-##### Pay the Price
+##### Pay the Price : Combat Move
 
 Being forced to make the Endure Harm move is the obvious result when you must Pay the Price in a fight, but there’s much more that can happen in a dynamic combat situation. You lose your footing. You drop your weapon. Your shield is shattered. A goal is lost to you. A companion or ally is injured. You are put in a perilous position. A new threat reveals itself.
 
 Mix it up. Make combat exciting and cinematic. Whatever happens, make the outcome one you wish you had avoided. If in doubt, roll on the Pay the Price table or Ask the Oracle.
 
-##### Ask the Oracle
+##### Ask the Oracle : Combat Move
 
 In solo and co-op play, you can Ask the Oracle about your foe’s objectives, tactics, and specific actions. The oracle can also help determine the outcome of events or introduce new twists.
 
@@ -1714,13 +1712,11 @@ On a miss, also suffer -1 momentum. If you are at 0 spirit, you must mark shaken
 
 Roll | Result
 -|-
-1-10 | You are overwhelmed. Face Desolation.
+1-10 | You are overwhelmed. *Face Desolation*.
 
-11-25 | You give up. Forsake Your Vow (if possible, one relevant to your current crisis).
+11-25 | You give up. *Forsake Your Vow* (if possible, one relevant to your current crisis).
 
-26-50 | You are unconscious and out of action. If left alone, you come back to your senses in an hour or two. If you are vulnerable to a foe not inclined to show mercy, Face Death.
-
-51-00 | You give in to a fear or compulsion, and act against your better instincts.
+26-50 | You give in to a fear or compulsion, and act against your better instincts.
 
 51-00 | You persevere.
 
@@ -1811,7 +1807,7 @@ It is not necessary to resolve one vow before swearing another. In fact, the int
 
 Based on the results of this move, your path may be clear (a strong hit), or more investigation may be required to identify your next steps (a weak hit).
 
-On a miss, you face a serious obstacle at the very start which prevents you from undertaking this quest. It might be a sudden event, someone working against you or refusing your aid, or a personal conviction which must be overcome. When in doubt about what happens, Ask the Oracle. It should be significant and not easily dealt with. Also, when you resolve this obstacle, you won’t Reach a Milestone for your quest. You aren’t actually able to make progress on the vow until you overcome this initial challenge.
+On a miss, you face a serious obstacle at the very start which prevents you from undertaking this quest. It might be a sudden event, someone working against you or refusing your aid, or a personal conviction which must be overcome. When in doubt about what happens, Ask the Oracle. It should be significant and not easily dealt with. Also, when you resolve this obstacle, you won’t *Reach a Milestone* for your quest. You aren’t actually able to make progress on the vow until you overcome this initial challenge.
 
 You also have the option, on a miss, to come to the realization that your vow was made impulsively or without support, and you may simply give up. If you do, Forsake Your Vow.
 
@@ -1831,7 +1827,7 @@ You will face obstacles as you strive to complete quests. Some of these obstacle
 
 Not every step on this path is worthy of a milestone. Did it put you in great danger? Did it cost you something significant? Did you unravel a complex web of clues and motivations? Was it dramatic and narratively interesting? Most importantly, was it directly related to your quest, and not a random or unconnected event?
 
-How you define milestones determines the pace of your game. You need to overcome challenges to Reach a Milestone and mark progress. You can’t (with confidence) Fulfill Your Vow unless you’ve marked progress. You don’t gain experience unless you Fulfill Your Vow. You can’t add new assets to your character unless you gain experience. That’s the broad flow of how quests drive gameplay and character improvement, the tempo of which is determined by you and others at your table. If you come up against relatively simple obstacles and call them milestones, you’ll mark progress and move quickly toward completing the quest. But, if you do, you’ll miss out on storytelling opportunities and the satisfaction earned when you prevail against a worthy challenge.
+How you define milestones determines the pace of your game. You need to overcome challenges to *Reach a Milestone* and mark progress. You can’t (with confidence) Fulfill Your Vow unless you’ve marked progress. You don’t gain experience unless you Fulfill Your Vow. You can’t add new assets to your character unless you gain experience. That’s the broad flow of how quests drive gameplay and character improvement, the tempo of which is determined by you and others at your table. If you come up against relatively simple obstacles and call them milestones, you’ll mark progress and move quickly toward completing the quest. But, if you do, you’ll miss out on storytelling opportunities and the satisfaction earned when you prevail against a worthy challenge.
 
 Not sure if something is worthy as a milestone? If you’re playing co-op or guided, talk it out at the table. If you’re playing solo, trust your instincts and the type of play experience you want to create. In the end, it’s your game.  
 
@@ -1885,7 +1881,6 @@ Make this move when you spend experience to add an asset or upgrade an existing 
 Narratively, you should consider how your recent experiences and fulfilled vows have led to these new abilities. Was your horse a reward from the thankful chief of a highland clan? Did you train under a powerful mystic? Has your time spent trekking across the wilds made you adept at woodcraft or navigation? Let your choice of assets flow naturally from the fiction.
 
 ### Fate Moves
-
 
 In solo and co-op play, the fate moves mediate the result of other moves or serve as inspirational prompts for your story. When you face the outcome of a move, want to know what happens next, or have a question about people, places and events external to your character, the fate moves help you discover an answer.
 
@@ -2058,9 +2053,9 @@ When you fail to defend against a foe’s attack and face physical harm, you mak
 
 If appropriate to the NPC, they can also inflict stress equal to their rank when you fail to resist an action which frightens, demoralizes, or rattles you.
 
-Use the End the Fight move, adding your progress against this foe, when you attempt to resolve the combat.
+Use the *End the Fight* move, adding your progress against this foe, when you attempt to resolve the combat.
 
-The ranks for the sample NPCs represent a typical individual of that type. For unusually powerful NPCs, increase their rank by one (to a maximum of epic). For less powerful foes, decrease their rank by one (to a minimum of troublesome). You can also adjust the rank of a foe when circumstances give you significant narrative disadvantage or advantage before the fight.
+> The ranks for the sample NPCs represent a typical individual of that type. For unusually powerful NPCs, increase their rank by one (to a maximum of epic). For less powerful foes, decrease their rank by one (to a minimum of troublesome). You can also adjust the rank of a foe when circumstances give you significant narrative disadvantage or advantage before the fight.
 
 #### Features
 
@@ -2086,20 +2081,20 @@ When you group foes into a pack, increase their rank to represent their combined
 
 When you inflict harm on the pack, you can envision it as appropriate to the fiction. You might wound them, put one or more of them out of action, or drive some back. When you successfully End the Fight, you have defeated the last of them, or broken their fighting spirit.
 
-Formidable, extreme, and epic foes may not be grouped into a pack. Each must have its own progress track.
+> Formidable, extreme, and epic foes may not be grouped into a pack. Each must have its own progress track.
 
 ### Joining Forces with NPCs
 
-If your story leads you to cooperating with helper NPCs to overcome challenges, you need to consider how they impact the fiction and your moves. NPCs—unless they are a companion asset—won’t give you mechanical bonuses on your moves. They also won’t make moves of their own. They are simply a part of your story, perhaps impacting the moves you make, the results of those moves, and the rank of your challenges. Gaining the aid of an important NPC might also allow you to Reach a Milestone.
+If your story leads you to cooperating with helper NPCs to overcome challenges, you need to consider how they impact the fiction and your moves. NPCs—unless they are a companion asset—won’t give you mechanical bonuses on your moves. They also won’t make moves of their own. They are simply a part of your story, perhaps impacting the moves you make, the results of those moves, and the rank of your challenges. Gaining the aid of an important NPC might also allow you to *Reach a Milestone*.
 
 For example:
 
 * If you are charged with protecting NPCs, they might be placed in danger or suffer losses as a result of your failures on moves.
 * If you are fighting alongside NPCs, you can reduce the rank of your foes. For example, battling alone against a large pack of raiders might be an extreme challenge. If you are aided by a stalwart band of villagers, you could shift the enemies’ rank to formidable.
-* If you are being led by an experienced scout, you might choose to skip the Undertake a Journey move, or reduce the rank of the journey.
-* If an NPC leader agrees to support your quest by allowing passage through contested lands, you might Reach a Milestone and mark progress.
+* If you are being led by an experienced scout, you might choose to skip the *Undertake a Journey* move, or reduce the rank of the journey.
+* If an NPC leader agrees to support your quest by allowing passage through contested lands, you might *Reach a Milestone* and mark progress.
 
-As with any NPC, you can Ask the Oracle to see how a helper NPC responds, how they fare in a challenge, or what they do next. You can make moves to influence them, such as Compel. If you develop a strong relationship through your story, or if you Fulfill Your Vow in their service, you can choose to Forge a Bond.
+As with any NPC, you can *Ask the Oracle* to see how a helper NPC responds, how they fare in a challenge, or what they do next. You can make moves to influence them, such as *Compel*. If you develop a strong relationship through your story, or if you *Fulfill Your Vow* in their service, you can choose to *Forge a Bond*.
 
 In short, make them characters, not numbers. Give them personalities. Give them quirks and motivations. Let them impact your story and your quests, for better or worse, but always keep the focus on your character and your allies.
 
@@ -2342,7 +2337,7 @@ Roll | Theme
 47| Freedom
 48| Debt
 49| Hate
-50|  Possession
+50| Possession
 51| Stranger
 52| Passage
 53| Land
