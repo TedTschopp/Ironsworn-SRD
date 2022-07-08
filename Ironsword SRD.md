@@ -2196,16 +2196,11 @@ When you’re unsure what a match might mean, you can roll on another oracle tab
 
 In guided play, your GM is the oracle. You won’t make this move unless you are talking things out and need a random result or a bit of inspiration. Your GM can use this move (or ask you to make it) to help guide the story.
 
-PART FOUR:  
-FOES AND ENCOUNTERS
-================================
-
-
+# PART FOUR: FOES AND ENCOUNTERS
 
 An NPC (non-player character/creature) is anyone who inhabits your setting other than your character and those portrayed by your fellow players. They can be a person, being or creature. You will roleplay your interactions with NPCs, and make moves when you attempt to influence them, aid them, gain their help, or act against them.
 
-Components of an NPC
---------------------
+## Components of an NPC
 
 Because gameplay in Ironsworn is centered on the abilities and actions of your character, NPCs are primarily represented through your fiction rather than mechanics. They don’t have stats, assets, or tracks. Instead, the sample NPCs in this chapter include some broad details to help guide their actions and the threat they pose in combat.
 
@@ -2215,57 +2210,13 @@ When you interact with an NPC, envision their personality and motivations. A bru
 
 NPCs have a single mechanical attribute, their rank. From this, their ability to resist and inflict harm in combat is derived, as follows:
 
-Rank
-
-Type
-
-Progress
-
-Harm
-
-Troublesome
-
-Common enemies
-
-3 progress per harm
-
-Inflicts 1 harm
-
-Dangerous
-
-Capable fighters and
-
-deadly creatures
-
-2 progress per harm
-
-Inflicts 2 harm
-
-Formidable
-
-Exceptional fighters and mighty creatures
-
-1 progress per harm
-
-Inflicts 3 harm
-
-Extreme
-
-Foes of overwhelming skill or power
-
-2 ticks per harm
-
-Inflicts 4 harm
-
-Epic
-
-Legendary foes of
-
-mythic power
-
-1 tick per harm
-
-Inflicts 5 harm
+Rank | Type | Progress | Harm
+-|-|-|-
+Troublesome | Common enemies | 3 progress per harm | Inflicts 1 harm
+Dangerous | Capable fighters and deadly creatures | 2 progress per harm |  Inflicts 2 harm
+Formidable | Exceptional fighters and mighty creatures | 1 progress per harm | Inflicts 3 harm
+Extreme | Foes of overwhelming skill or power | 2 ticks per harm | Inflicts 4 harm
+Epic | Legendary foes of mythic power | 1 tick per harm | Inflicts 5 harm
 
 When you engage a foe in combat, give them a standard progress track (10 boxes). When you Strike or Clash and inflict harm, mark progress for each point of harm based on the foe’s rank. For example, you mark 2 ticks for each point of harm inflicted on an extreme foe, and 2 progress (2 full boxes) for each point of harm against a dangerous foe.
 
@@ -2293,8 +2244,7 @@ Tactics provide a reference for how an NPC might act in combat. These give you a
 
 Your foes should do more than simply try to inflict harm. A fearsome roar or demoralizing boast might cause you to Endure Stress. Tactical maneuvers reduce your momentum. Fictional complications—the appearance of new foes, putting companions or allies at risk, or a realization that undermines your quest—will heighten the drama of the scene.
 
-NPC Packs
----------
+## NPC Packs
 
 When you fight a group of troublesome or dangerous foes, you may combine them into a single progress track. This is called a pack. It’s more convenient than tracking progress for each individual foe, and the scene will move faster.
 
@@ -2304,8 +2254,7 @@ When you inflict harm on the pack, you can envision it as appropriate to the fic
 
 Formidable, extreme, and epic foes may not be grouped into a pack. Each must have its own progress track.
 
-Joining Forces with NPCs
-------------------------
+## Joining Forces with NPCs
 
 If your story leads you to cooperating with helper NPCs to overcome challenges, you need to consider how they impact the fiction and your moves. NPCs—unless they are a companion asset—won’t give you mechanical bonuses on your moves. They also won’t make moves of their own. They are simply a part of your story, perhaps impacting the moves you make, the results of those moves, and the rank of your challenges. Gaining the aid of an important NPC might also allow you to Reach a Milestone.
 
@@ -2320,8 +2269,7 @@ As with any NPC, you can Ask the Oracle to see how a helper NPC responds, how t
 
 In short, make them characters, not numbers. Give them personalities. Give them quirks and motivations. Let them impact your story and your quests, for better or worse, but always keep the focus on your character and your allies.
 
-Creating NPCs
--------------
+## Creating NPCs
 
 You should create NPCs that fit your version of the setting, enhance your story, and enrich your character’s adventures. Because NPCs don’t have mechanical detail, it’s easy to bring them to life without advance preparation.
 
@@ -2329,43 +2277,34 @@ If you face an NPC in combat, give them a rank. If you like, you can also make n
 
 For reoccurring NPCs, make note of what you learn of them over time. If you share a bond, mark it down.
 
+## Sample NPC
 
+> ### Wyvern
+>
+> #### Rank:  
+> 
+> * Extreme (2 ticks per harm; inflicts 4 harm)
+> 
+> #### Features 
+> 
+> * Huge, bat-like wings
+> * Rows of knife-sized teeth
+> * Thick hide with a metallic sheen
+> * Long tail
+> 
+> #### Drives
+> 
+> * Watch for prey from high above
+> * Feed
+> 
+> #### Tactics
+> 
+> * Swoop down
+> * Snap up prey
+> * Fearsome roar
+> * Bash with tail
 
-Sample NPC
-----------
-
-Wyvern
-
-Rank
-
-Extreme (2 ticks per harm; inflicts 4 harm)
-
-Features
-
-* Huge, bat-like wings
-* Rows of knife-sized teeth
-* Thick hide with a metallic sheen
-* Long tail
-
-Drives
-
-* Watch for prey from high above
-* Feed
-
-Tactics
-
-* Swoop down
-* Snap up prey
-* Fearsome roar
-* Bash with tail
-
-
-
-PART FIVE:  
-ORACLES
-====================
-
-
+# PART FIVE: ORACLES
 
 In Ironsworn, an oracle is anything which generates random results to help determine the outcome of a move, a detail in your world, an NPC action, or a narrative event.
 
@@ -2392,12 +2331,12 @@ You can also use oracles as a prompt for sharing control of the narrative with y
 
 ### How to Use an Oracle
 
-1.  Roll your oracle dice to generate a number from 1-100.
-2.  Check your roll against the table. The oracle will reveal its answer.
-3.  Consider the answer in the context of your question and the current situation. Is the result a good fit? Does it trigger a spark of inspiration?
-4.  If the answer is difficult to interpret for your situation, you can check up or down one row from your original answer, or reverse the digits (37=73).
-5.  If you’ve got your answer, you’re all set! Play to see what happens. If you want further detail, you can talk it out with other players or roll on another oracle table.
-6.  If you’re having trouble, you can roll again, try a different table, or just fall back to your instincts and decide what happens next.
+1. Roll your oracle dice to generate a number from 1-100.
+2. Check your roll against the table. The oracle will reveal its answer.
+3. Consider the answer in the context of your question and the current situation. Is the result a good fit? Does it trigger a spark of inspiration?
+4. If the answer is difficult to interpret for your situation, you can check up or down one row from your original answer, or reverse the digits (37=73).
+5. If you’ve got your answer, you’re all set! Play to see what happens. If you want further detail, you can talk it out with other players or roll on another oracle table.
+6. If you’re having trouble, you can roll again, try a different table, or just fall back to your instincts and decide what happens next.
 
 #### When Answers lead to more questions
 
@@ -2409,10 +2348,7 @@ However, use caution with this technique. Too many questions and too many rolls 
 
 Matches don’t have special significance when rolling on these oracle tables. They can be ignored.
 
-
-
-Action Oracle
--------------
+## Action Oracle
 
 Use this table to inspire a discovery, event, character goal, or situation. A roll on this table can be combined with a Theme (see below) to provide an action and a subject. Then, interpret the result based on the context of the question and your current situation.
 
@@ -2816,8 +2752,7 @@ Fortify
 
 Summon
 
-Theme Oracle
-------------
+## Theme Oracle
 
 As with the Action oracle, this is an interpretative table which you can use to answer questions or generate new situations. Combined, the Action and Theme tables provide creative prompts suitable for most situations and questions.
 
@@ -3221,191 +3156,66 @@ Mysticism
 
 Supply
 
-Combat Action Oracle
---------------------
+## Combat Action Oracle
 
 Use this oracle to help inspire an action for an NPC in combat. When you’re not sure what your foe does next, particularly when they have initiative, roll on this table and interpret the result as appropriate to your foe and the situation.
 
-1-3
+  Roll|Outcome
+------|------------
+  1-3 | Compel a surrender.
+  4-6 | Coordinate with allies.
+  7-9 | Gather reinforcements.
+10-13 | Seize something or someone.
+14-17 | Provoke a reckless response.
+18-21 | Intimidate or frighten.
+22-25 |  Reveal a surprising truth.
+26-29 | Shift focus to someone or something else.
+30-33 | Destroy something, or render it useless.
+34-39 | Take a decisive action.
+40-45 | Reinforce defenses.
+46-52 | Ready an action.
+53-60 | Use the terrain to gain advantage.
+61-68 | Leverage the advantage of a weapon or ability.
+69-78 | Create an opportunity.
+79-89 | Attack with precision.
+90-99 | Attack with power.
+   00 | Take a completely unexpected action.
 
-Compel a surrender.
-
-4-6
-
-Coordinate with allies.
-
-7-9
-
-Gather reinforcements.
-
-10-13
-
-Seize something or someone.
-
-14-17
-
-Provoke a reckless response.
-
-18-21
-
-Intimidate or frighten.
-
-22-25
-
- Reveal a surprising truth.
-
-26-29
-
-Shift focus to someone or something else.
-
-30-33
-
-Destroy something, or render it useless.
-
-34-39
-
-Take a decisive action.
-
-40-45
-
-Reinforce defenses.
-
-46-52
-
-Ready an action.
-
-53-60
-
-Use the terrain to gain advantage.
-
-61-68
-
-Leverage the advantage of a weapon or ability.
-
-69-78
-
-Create an opportunity.
-
-79-89
-
-Attack with precision.
-
-90-99
-
-Attack with power.
-
-00
-
-Take a completely unexpected action.
-
-Major Plot Twist Oracle
------------------------
+## Major Plot Twist Oracle
 
 Use this oracle to introduce a narrative surprise or revelation. Most of these results have a negative implication, and can be used to resolve a match at a crucial moment in your story. In particular, this is an effective tool to leverage when you make a move with matched 10’s on the challenge dice.
 
-1-5
+  Roll|Outcome
+:----:|:------------
+ 1-5  | It was all a diversion.
+6-10  | A dark secret is revealed.
+11-15 | A trap is sprung.
+16-20 | An assumption is revealed to be false.
+21-25 | A secret alliance is revealed.
+26-30 | Your actions benefit an enemy.
+31-35 | Someone returns unexpectedly.
+36-40 | A more dangerous foe is revealed.
+41-45 | You and an enemy share a common goal.
+46-50 | A true identity is revealed.
+51-55 | You are betrayed by someone who was trusted.
+56-60 | You are too late.
+61-65 | The true enemy is revealed.
+66-70 | The enemy gains new allies.
+71-75 | A new danger appears.
+76-80 | Someone or something goes missing.
+81-85 | The truth of a relationship is revealed.
+86-90 | Two seemingly unrelated situations are shown to be connected.
+91-95 | Unexpected powers or abilities are revealed.
+96-00 | Roll twice more on this table. Both results occur. If they are the same result, make it more dramatic.
 
-It was all a diversion.
-
-6-10
-
-A dark secret is revealed.
-
-11-15
-
-A trap is sprung.
-
-16-20
-
-An assumption is revealed to be false.
-
-21-25
-
-A secret alliance is revealed.
-
-26-30
-
-Your actions benefit an enemy.
-
-31-35
-
-Someone returns unexpectedly.
-
-36-40
-
-A more dangerous foe is revealed.
-
-41-45
-
-You and an enemy share a common goal.
-
-46-50
-
-A true identity is revealed.
-
-51-55
-
-You are betrayed by someone who was trusted.
-
-56-60
-
-You are too late.
-
-61-65
-
-The true enemy is revealed.
-
-66-70
-
-The enemy gains new allies.
-
-71-75
-
-A new danger appears.
-
-76-80
-
-Someone or something goes missing.
-
-81-85
-
-The truth of a relationship is revealed.
-
-86-90
-
-Two seemingly unrelated situations are shown to be connected.
-
-91-95
-
-Unexpected powers or abilities are revealed.
-
-96-00
-
-Roll twice more on this table. Both results occur. If they are the same result, make it more dramatic.
-
-Challenge Rank Oracle
----------------------
+## Challenge Rank Oracle
 
 Use this oracle when you want to randomly determine the challenge rank of a quest, journey, or fight.
 
-1-20
-
-Troublesome
-
-21-55
-
-Dangerous
-
-56-80
-
-Formidable
-
-81-93
-
-Extreme
-
-94-00
-
-Epic
-
-Ironsworn SRD  |
+  Roll|Outcome
+------|------------
+ 1-20 | Troublesome
+21-55 | Dangerous
+56-80 | Formidable
+81-93 | Extreme
+94-00 | Epic
