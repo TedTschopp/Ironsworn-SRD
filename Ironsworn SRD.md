@@ -10,7 +10,7 @@ Ironsworn leverages mechanics and creative inspiration from several amazing game
 
 [Apocalypse World](http://apocalypse-world.com/), by D. Vincent Baker.
 
-[City of Judas](http://www.daimongames.com/judas.htm), by Davide Pignedoli.
+[City of Judas](http://www.daimongames.com/judas.html), by Davide Pignedoli.
 
 [Dungeon World](http://www.dungeon-world.com/), by Sage LaTorra and Adam Koebel.
 
