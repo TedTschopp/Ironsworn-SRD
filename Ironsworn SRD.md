@@ -2288,6 +2288,7 @@ Roll | Action
 ### Theme Oracle
 
 As with the Action oracle, this is an interpretative table which you can use to answer questions or generate new situations. Combined, the Action and Theme tables provide creative prompts suitable for most situations and questions.
+
 Roll | Theme
 -----|-------------
 1    | Risk
